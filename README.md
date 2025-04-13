@@ -54,12 +54,36 @@
 - [One World Italiano Grammar Reference](https://oneworlditaliano.com/en/italian-grammar/grammar-reference/)
 - [ALLORA Online Grammar Reference](https://sites.google.com/a/nyu.edu/allora-grammar/grammar-guide)
 
+## YouTube channels and individual videos 
+
+- [Dolce Vita with Luca &amp; Marina](https://www.youtube.com/@DolceVitaChannel)
+- [Easy Italian](https://www.youtube.com/@EasyItalian)
+- [Intrepid Italian with Michele](https://www.youtube.com/@IntrepidItalian)
+- [Italian Conversation Practice for Beginners](https://www.youtube.com/watch?v=gR0SYOCZaNY)
+- [Italian Flashcards](https://www.youtube.com/@Italian.Flashcards)
+- [Italian for Tourists](https://www.youtube.com/watch?v=YIvbpU-r_6g)
+- [Italian Phrases to Travel](https://www.youtube.com/watch?v=0Jg07eylrT0)
+- [Italian Pod 101](https://www.youtube.com/@italianpod101)
+- [Italian Stories for Beginners](https://www.youtube.com/@ItalianStoriesforBeginners)
+- [Italy Made Easy](https://www.youtube.com/@italymadeeasy)
+- [Learn Italian: A 1-Hour Beginner Conversation Course](https://www.youtube.com/watch?v=dd2Cz-WQwww)
+- [Learn Italian On the Go: 1 hour conversation course](https://www.youtube.com/watch?v=exx98OlIdSo)
+- [Learn Italian with Ines](https://www.youtube.com/@LearnItalianwithInes)
+- [Learn Italian with Luca](https://www.youtube.com/watch?v=ENe5AANQK3A)
+- [Learn Italian with Lucrezia](https://www.youtube.com/@lucreziaoddone) 
+- [Learn Italian with Stories](https://www.youtube.com/@LearnItalianWithStories)
+- [LinguaMotion Academy](https://www.youtube.com/@linguamotion)
+- [Podcast Italiano](https://www.youtube.com/@PodcastItaliano)
+- [Stories to Sleep in Italian](https://www.youtube.com/watch?v=C4Ge0rW5pM4) (8 hours)
+- [Useful Italian with Chris](https://www.youtube.com/@UsefulItalian)
+
 ## Free online learning resources 
 
 - [The Italian Experiment](https://www.theitalianexperiment.com)
 - [Online Italian Club](https://onlineitalianclub.com)
 - [Corso d'italiano online](https://italiano-bello.com/en/italian-courses/)
 - [Europass Italian Language School](https://www.europassitalian.com/learn/)
+- [Instantly Italy](https://instantlyitaly.com)
 
 
 ## Online learning resources with a cost 
@@ -76,3 +100,9 @@
 - [Tandem: 10 Italian Hand Gestures Everyone Should Master](https://tandem.net/blog/italian-hand-gestures)
 - [YouTube: Seven common Italian hand gestures](https://www.youtube.com/watch?v=UZA5ia_XM-A)
 - [Italian Language Centre: The Fine Art of Italian Hand Gestures](https://www.italianlanguagecentre.org/the-fine-art-of-italian-hand-gestures/)
+
+## Cultural 
+
+- [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
+- [Italian Locals Hate It When Tourists Do These Things](https://www.youtube.com/watch?v=BBkP7Uxrq3Y)
+
