@@ -56,6 +56,7 @@
 
 ## YouTube channels and individual videos 
 
+- [Coffee Break Italian](https://www.youtube.com/@coffeebreakitalian)
 - [Dolce Vita with Luca &amp; Marina](https://www.youtube.com/@DolceVitaChannel)
 - [Easy Italian](https://www.youtube.com/@EasyItalian)
 - [Intrepid Italian with Michele](https://www.youtube.com/@IntrepidItalian)
@@ -72,6 +73,7 @@
 - [Learn Italian with Luca](https://www.youtube.com/watch?v=ENe5AANQK3A)
 - [Learn Italian with Lucrezia](https://www.youtube.com/@lucreziaoddone) 
 - [Learn Italian with Stories](https://www.youtube.com/@LearnItalianWithStories)
+- [Learn Italian with the News](https://www.youtube.com/playlist?list=PL-YADZLbj_MEe2TutRAEe9zbJsUNZ-h03)
 - [LinguaMotion Academy](https://www.youtube.com/@linguamotion)
 - [Podcast Italiano](https://www.youtube.com/@PodcastItaliano)
 - [Stories to Sleep in Italian](https://www.youtube.com/watch?v=C4Ge0rW5pM4) (8 hours)
@@ -84,6 +86,20 @@
 - [Corso d'italiano online](https://italiano-bello.com/en/italian-courses/)
 - [Europass Italian Language School](https://www.europassitalian.com/learn/)
 - [Instantly Italy](https://instantlyitaly.com)
+
+## Online news sites in Italian 
+
+- [ANSA](https://www.ansa.it)
+- [Corriere Della Sera](https://www.corriere.it)
+- [EuroNews](https://it.euronews.com)
+- [Rai News](https://www.rainews.it)
+- [Sky TG24](https://tg24.sky.it)
+
+## Online audio in Italian 
+
+- [Rai Radio](https://www.raiplaysound.it/generi) audiobooks, news, various topics
+- [Easy Italian News](https://easyitaliannews.com) slow audio with accompanying text
+- [News In Slow](https://www.newsinslowitalian.com) adjustable playback speed
 
 
 ## Online learning resources with a cost 
