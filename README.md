@@ -147,8 +147,19 @@
 
 ## Cultural 
 
+- [Berlitz - Italian Cultura and Traditions](https://www.berlitz.com/blog/italian-culture-traditions)
+- [Must-Know Italian Traditions for New Citizens](https://itamcap.com/blog/must-know-italian-traditions-for-new-citizens/)
+- [Italy - Cultural Atlas](https://culturalatlas.sbs.com.au/italian-culture)
 - [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
 - [Italian Locals Hate It When Tourists Do These Things](https://www.youtube.com/watch?v=BBkP7Uxrq3Y)
+
+## History 
+
+- [Timeline of Italian History](https://en.wikipedia.org/wiki/Timeline_of_Italian_history)
+- [La historia d'Italia (Wikipedia)](https://ast.wikipedia.org/wiki/Historia_d%27Italia)
+- [Storia d'Italia (Wikipedia)](https://it.wikipedia.org/wiki/Storia_d%27Italia)
+- [Storia d'Italia (Marco Cappelli)](https://open.spotify.com/show/3MBCyz1No5Gy7JSP4cuSqw) podcast
+- [Tutta la storia dell'Italia in dieci minuti](https://www.youtube.com/watch?v=AznJWjqNQF4) YouTube
 
 ## Italian language proficiency certification 
 
