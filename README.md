@@ -106,3 +106,13 @@
 - [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
 - [Italian Locals Hate It When Tourists Do These Things](https://www.youtube.com/watch?v=BBkP7Uxrq3Y)
 
+## Italian language proficiency certification 
+
+- [Italian Citizenship Through Marriage - The Italian Language Test](https://www.giambronelaw.com/site/advice/gaining-citizenship/italian-citizenship/application/italian-citizen-language-test/) Giambrone Law 
+- [B1 Certificate for Italian Citizenship by Marriage](https://danteinlinea.com/blog/en/b1-language-certificate-for-italian-citizenship-by-marriage/) Dante in Linea
+- [Exemption from Language Test for Citizenship by Marriage and Residency](https://italiancitizenshipassistance.com/exemption-from-language-test-for-citizenship-by-marriage-and-residency/) ICA Italian Citizenship Assistance
+- [Sample Language Tests](https://www.adoortoitaly.com/en/pages-57/test-online) from A Door To Italy
+- [CELI Preparation &amp; Exam](https://italianculturalsociety.org/celi-exam-italian-citizenship/) at The Italian Cultural Society of Washington DC
+- [B1 Italian Language Exam for Italian Citizenship](https://www.europassitalian.com/language-exams/b1-for-citizenship/) Europass Italian Language School 
+- [CELI for Italian Citizenship](https://collinaitaliana.com/celi-citizenship-italian-certification/) at Collina Italiana 
+- [Language Certifications](https://iicnewyork.esteri.it/en/lingua-e-cultura/certificazioni/) Istituto Italiano di Cultura di New York
