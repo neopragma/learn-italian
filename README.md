@@ -87,6 +87,7 @@
 - [Corso d'italiano online](https://italiano-bello.com/en/italian-courses/)
 - [Europass Italian Language School](https://www.europassitalian.com/learn/)
 - [Instantly Italy](https://instantlyitaly.com)
+- [Surface Languages - Learn Some Italian](https://www.surfacelanguages.com/language/Italian.html)
 
 ## Online news sites in Italian 
 
@@ -96,7 +97,7 @@
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
 
-## Online audio and podcastsin Italian 
+## Online audio and podcasts in Italian 
 
 - [4 Verticale](https://soundcloud.com/podcast-babbel)
 - [Camposanto](https://www.giuliadepentor.com/podcast/camposanto/)
@@ -109,6 +110,24 @@
 - [News In Slow](https://www.newsinslowitalian.com) adjustable playback speed
 - [Scientificast](https://www.scientificast.it)
 - [Senza Rosetto](https://www.senzarossettopodcast.it/podcast/)
+
+## Online crossword puzzles and word games in Italian 
+
+- [Corriere](https://www.corriere.it/cruciverba/)
+- [Cruciverba Online](http://www.cruciverbaonline.it)
+- [Devarai](https://cruciverba.devarai.com)
+- [Giocando](http://www.giocando.com/cruciverba?tipo=2)
+- [Il tavolo italiano](http://iltavoloitaliano.com/crossword_puzzles_to_learn_italian/)
+- [IS Booth](https://isbooth.com/cross.php?lg=it)
+- [La Regione](https://www.laregione.ch/giochi/cruciverba)
+- [La Settimana Enigmistica](https://www.lasettimanaenigmistica.com/gioca-con-noi/parole-crociate/)
+- [Lexis Rex](https://www.lexisrex.com/Italian-Crosswords) daily Italian crosswords
+- [Linguno](https://www.linguno.com/crosswords/?lang=ita)
+- [Play Italian](https://playitalian.com/free-puzzles-2/) word puzzles
+- [Surface Languages](https://www.surfacelanguages.com/dictionary/Italian/crossword.html) easy
+- [Surface Languages](https://www.surfacelanguages.com/language/Italian/crosswords/italianmediumcrossword.html) medium
+- [Surface Languages](https://www.surfacelanguages.com/language/Italian/crosswords/italianhardcrossword.html) hard 
+- [Word Mint](https://wordmint.com/categories/italian-language?page=10) list of Italian crossword puzzle and word game sites
 
 
 ## Online learning resources with a cost 
