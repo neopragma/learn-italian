@@ -96,11 +96,19 @@
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
 
-## Online audio in Italian 
+## Online audio and podcastsin Italian 
 
+- [4 Verticale](https://soundcloud.com/podcast-babbel)
+- [Camposanto](https://www.giuliadepentor.com/podcast/camposanto/)
+- [Caterpillar](https://www.raiplaysound.it/programmi/caterpillar)
 - [Rai Radio](https://www.raiplaysound.it/generi) audiobooks, news, various topics
 - [Easy Italian News](https://easyitaliannews.com) slow audio with accompanying text
+- [La bottega di Babbel](https://www.spreaker.com/podcast/la-bottega-di-babbel--4128775)
+- [La linguacciuta](https://www.spreaker.com/podcast/la-linguacciuta--3271976)
+- [Learn Italian with Music](https://open.spotify.com/show/0GvADcYOpeDGo6bFrHy9h3?si=e664c01b9bff4cde&nd=1&dlsi=666e37242b634403)
 - [News In Slow](https://www.newsinslowitalian.com) adjustable playback speed
+- [Scientificast](https://www.scientificast.it)
+- [Senza Rosetto](https://www.senzarossettopodcast.it/podcast/)
 
 
 ## Online learning resources with a cost 
