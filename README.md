@@ -56,7 +56,8 @@
 
 ## YouTube channels and individual videos 
 
-- [Coffee Break Italian](https://www.youtube.com/@coffeebreakitalian)
+- [Coffee Break Italian](https://www.youtube.com/@coffeebreakitalian) channel
+- [Coffee Break Italian](https://coffeebreaklanguages.com/category/coffee-break-italian/) website
 - [Dolce Vita with Luca &amp; Marina](https://www.youtube.com/@DolceVitaChannel)
 - [Easy Italian](https://www.youtube.com/@EasyItalian)
 - [Intrepid Italian with Michele](https://www.youtube.com/@IntrepidItalian)
