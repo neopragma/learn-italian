@@ -37,6 +37,10 @@
 <td>Piacere</td>
 </tr>
 <tr>
+<td width="50%">Very pleased to meet you</td>
+<td>Piacere molto</td>
+</tr>
+<tr>
 <td width="50%">Nice to meet you at last</td>
 <td>Felice di incontrarti/incontrarla finalmente</td>
 </tr>

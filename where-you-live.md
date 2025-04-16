@@ -41,4 +41,24 @@
 <td width="50%">My apartment is in that building over there</td>
 <td>Il mio appartamento è in quell'edificio laggiù</td>
 </tr>
+<tr>
+<td width="50%">We have lived in Rome for two years</td>
+<td>Viviamo a Roma da due anni</td>
+</tr>
+<tr>
+<td width="50%">Our house is near a park</td>
+<td>La nostra casa è vicino a un parco</td>
+</tr>
+<tr>
+<td width="50%">We like the convenience of the city</td>
+<td>Ci piace la comodità della città</td>
+</tr>
+<tr>
+<td width="50%">but sometimes we wish we lived by the sea</td>
+<td>ma a volte vorremmo vivere vicino al mare</td>
+</tr>
+<tr>
+<td width="50%">Our house is small but it's close to a bus stop</td>
+<td>La nostra casa è piccola ma è vicina a una fermata dell'autobus</td>
+</tr>
 </table>
