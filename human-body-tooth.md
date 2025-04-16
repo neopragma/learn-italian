@@ -22,6 +22,15 @@
 <td>denti anteriori</td>
 </tr>
 <tr>
+<td width="50%">eye tooth</td>
+<td>dente dell'occhio</td>
+</tr>
+<tr>
+<tr>
+<td width="50%">eye teetth</td>
+<td>denti dell'occhio</td>
+</tr>
+<tr>
 <td width="50%">root of the tooth</td>
 <td>radice del dente</td>
 </tr>
