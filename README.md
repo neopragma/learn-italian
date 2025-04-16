@@ -50,6 +50,8 @@
 
 ## Online grammar references
 
+- [Reverso verb conjugator](https://conjugator.reverso.net/conjugation-italian.html)
+- [Reverso list of common verbs](https://conjugator.reverso.net/index-italian-1-250.html)
 - [Easitalian Guide for Italian Grammar](https://www.easitalian.com/reference-guide-for-italian-grammar/)
 - [One World Italiano Grammar Reference](https://oneworlditaliano.com/en/italian-grammar/grammar-reference/)
 - [ALLORA Online Grammar Reference](https://sites.google.com/a/nyu.edu/allora-grammar/grammar-guide)
