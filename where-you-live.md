@@ -61,4 +61,12 @@
 <td width="50%">Our house is small but it's close to a bus stop</td>
 <td>La nostra casa è piccola ma è vicina a una fermata dell'autobus</td>
 </tr>
+<tr>
+<td width="50%">We are renting for the time being while we look for a house to buy</td>
+<td>Stiamo affittando per il momento mentre cerchiamo una casa da acquistare</td>
+</tr>
+<tr>
+<td width="50%">Luigi lives in a ground floor apartment</td>
+<td>Luigi abita in un appartamento al piano terra</td>
+</tr>
 </table>
