@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td width="50%"><a href="human-body-2.html">body</a></td>
+<td width="50%">body</td>
 <td>corpo</td>
 </tr>
 <tr>
-<td width="50%">head</td>
+<td width="50%"><a href="human-body-head.html">head</a></td>
 <td>testa</td>
 </tr>
 <tr>

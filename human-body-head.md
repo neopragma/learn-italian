@@ -6,47 +6,55 @@
 <td>testa</td>
 </tr>
 <tr>
-<td width="50%">face</td>
-<td></td>
+<td width="50%">face, visage, countenance</td>
+<td>viso</td>
 </tr>
 <tr>
 <td width="50%">forehead</td>
-<td></td>
+<td>la fronte</td>
 </tr>
 <tr>
 <td width="50%">scalp</td>
-<td></td>
+<td>cuoio capelluto, scalpo</td>
 </tr>
 <tr>
-<td width="50%">forehead</td>
-<td></td>
+<td width="50%">temple</td>
+<td>tempia</td>
 </tr>
 <tr>
 <td width="50%">hair</td>
-<td></td>
+<td>capelli</td>
 </tr>
 <tr>
 <td width="50%">ear</td>
-<td></td>
+<td>orecchio</td>
 </tr>
 <tr>
 <td width="50%">eyebrow</td>
-<td></td>
+<td>sopracciglio</td>
 </tr>
 <tr>
 <td width="50%">eyelash</td>
-<td></td>
+<td>ciglio</td>
 </tr>
 <tr>
 <td width="50%">nose</td>
-<td></td>
+<td>naso</td>
 </tr>
 <tr>
 <td width="50%">bridge of the nose</td>
-<td></td>
+<td>ponte del naso</td>
 </tr>
 <tr>
 <td width="50%">nostril</td>
+<td>la narice</td>
+</tr>
+<tr>
+<td width="50%"></td>
+<td></td>
+</tr>
+<tr>
+<td width="50%"></td>
 <td></td>
 </tr>
 <tr>
