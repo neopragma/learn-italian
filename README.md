@@ -153,6 +153,12 @@
 - [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
 - [Italian Locals Hate It When Tourists Do These Things](https://www.youtube.com/watch?v=BBkP7Uxrq3Y)
 
+## Phrases and patterns by subject
+
+- [Introducing people](introductions.md)
+- [Where you live](where-you-live.md)
+
+
 ## History 
 
 - [Timeline of Italian History](https://en.wikipedia.org/wiki/Timeline_of_Italian_history)
