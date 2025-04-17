@@ -50,6 +50,14 @@
 <td>tronco</td>
 </tr>
 <tr>
+<td width="50%"><a href="human-body-growths.html">growths and marks</a></td>
+<td>escrescenza e segni</td>
+</tr>
+<tr>
+<td width="50%"><a href="human-body-secretions.html">secretions and emissions</a></td>
+<td>secrezione ed emissione</td>
+</tr>
+<tr>
 <td width="50%"></td>
 <td></td>
 </tr>

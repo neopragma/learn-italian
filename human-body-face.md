@@ -22,15 +22,7 @@
 <td>naso</td>
 </tr>
 <tr>
-<td width="50%">pimple, zit</td>
-<td>brufolo</td>
-</tr>
-<tr>
 <td width="50%">wrinkles</td>
 <td>rughe</td>
-</tr>
-<tr>
-<td width="50%"></td>
-<td></td>
 </tr>
 </table>
