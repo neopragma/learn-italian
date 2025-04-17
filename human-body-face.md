@@ -6,6 +6,14 @@
 <td>viso</td>
 </tr>
 <tr>
+<td width="50%">bridge of the nose</td>
+<td>ponte del naso</td>
+</tr>
+<tr>
+<td width="50%"><a href="human-body-eye.md">eye</a></td>
+<td>occhio</td>
+</tr>
+<tr>
 <td width="50%">forehead, brow</td>
 <td>la fronte</td>
 </tr>
@@ -14,16 +22,8 @@
 <td>fronte aggrottata</td>
 </tr>
 <tr>
-<td width="50%"><a href="human-body-eye.md">eye</a></td>
-<td>occhio</td>
-</tr>
-<tr>
 <td width="50%">nose</td>
 <td>naso</td>
-</tr>
-<tr>
-<td width="50%">bridge of the nose</td>
-<td>ponte del naso</td>
 </tr>
 <tr>
 <td width="50%">nostril</td>
