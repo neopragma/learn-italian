@@ -18,7 +18,7 @@
 <td>addome</td>
 </tr>
 <tr>
-<td width="50%">arm</td>
+<td width="50%"><a href="human-body-arm.html">arm</a></td>
 <td>braccio</td>
 </tr>
 <tr>
