@@ -6,10 +6,6 @@
 <td>viso</td>
 </tr>
 <tr>
-<td width="50%">bridge of the nose</td>
-<td>ponte del naso</td>
-</tr>
-<tr>
 <td width="50%"><a href="human-body-eye.html">eye</a></td>
 <td>occhio</td>
 </tr>
@@ -26,12 +22,8 @@
 <td>bocca</td>
 </tr>
 <tr>
-<td width="50%">nose</td>
+<td width="50%"><a href="human-body-nose.html">nose</a></td>
 <td>naso</td>
-</tr>
-<tr>
-<td width="50%">nostril</td>
-<td>la narice</td>
 </tr>
 <tr>
 <td width="50%">pimple, zit</td>
