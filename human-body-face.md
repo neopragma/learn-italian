@@ -10,12 +10,8 @@
 <td>occhio</td>
 </tr>
 <tr>
-<td width="50%">forehead, brow</td>
+<td width="50%"><a href="human-body-brow.html">forehead, brow</a></td>
 <td>la fronte</td>
-</tr>
-<tr>
-<td width="50%">furrowed brow</td>
-<td>fronte aggrottata</td>
 </tr>
 <tr>
 <td width="50%"><a href="human-body-mouth.html">mouth</a></td>
