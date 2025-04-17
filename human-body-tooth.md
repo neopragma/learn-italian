@@ -10,16 +10,24 @@
 <td>denti</td>
 </tr>
 <tr>
-<td width="50%">upper teeth</td>
-<td>denti superiori</td>
+<td width="50%">canine</td>
+<td>canino</td>
 </tr>
 <tr>
-<td width="50%">lower teeth</td>
-<td>denti inferiori</td>
+<td width="50%">caries</td>
+<td>carie</td>
 </tr>
 <tr>
-<td width="50%">front teeth</td>
-<td>denti anteriori</td>
+<td width="50%">cementum</td>
+<td>cemento</td>
+</tr>
+<tr>
+<td width="50%">dentin</td>
+<td>dentina</td>
+</tr>
+<tr>
+<td width="50%">enamel</td>
+<td>smalto</td>
 </tr>
 <tr>
 <td width="50%">eye tooth</td>
@@ -31,40 +39,8 @@
 <td>denti dell'occhio</td>
 </tr>
 <tr>
-<td width="50%">root of the tooth</td>
-<td>radice del dente</td>
-</tr>
-<tr>
-<td width="50%">enamel</td>
-<td>smalto</td>
-</tr>
-<tr>
-<td width="50%">dentin</td>
-<td>dentina</td>
-</tr>
-<tr>
-<td width="50%">pulp</td>
-<td>polpa</td>
-</tr>
-<tr>
-<td width="50%">cementum</td>
-<td>cemento</td>
-</tr>
-<tr>
-<td width="50%">incisor</td>
-<td>incisivo</td>
-</tr>
-<tr>
-<td width="50%">canine</td>
-<td>canino</td>
-</tr>
-<tr>
-<td width="50%">premolar</td>
-<td>premolare</td>
-</tr>
-<tr>
-<td width="50%">molar</td>
-<td>molare</td>
+<td width="50%">front teeth</td>
+<td>denti anteriori</td>
 </tr>
 <tr>
 <td width="50%">gum</td>
@@ -75,7 +51,31 @@
 <td>gengive</td>
 </tr>
 <tr>
-<td width="50%">caries</td>
-<td>carie</td>
+<td width="50%">incisor</td>
+<td>incisivo</td>
 </tr>
-</table>
+<tr>
+<td width="50%">lower teeth</td>
+<td>denti inferiori</td>
+</tr>
+<tr>
+<td width="50%">molar</td>
+<td>molare</td>
+</tr>
+<tr>
+<td width="50%">premolar</td>
+<td>premolare</td>
+</tr>
+<tr>
+<td width="50%">root of the tooth</td>
+<td>radice del dente</td>
+</tr>
+<tr>
+<td width="50%">upper teeth</td>
+<td>denti superiori</td>
+</tr>
+<tr>
+<td width="50%">pulp</td>
+<td>polpa</td>
+</tr>
+

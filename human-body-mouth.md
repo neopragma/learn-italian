@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%"><a href="human-body-mouth.html">mouth</a></td>
+<td width="50%">mouth</td>
 <td>bocca</td>
 </tr>
 <tr>
