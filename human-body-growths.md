@@ -38,6 +38,10 @@
 <td>brufolo</td>
 </tr>
 <tr>
+<td width="50%">stigmata</td>
+<td>stigmate</td>
+</tr>
+<tr>
 <td width="50%">wart</td>
 <td>verruca</td>
 </tr>
