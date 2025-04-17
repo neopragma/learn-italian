@@ -6,10 +6,6 @@
 <td>secrezione ed emissione</td>
 </tr>
 <tr>
-<td width="50%">menstrual discharge</td>
-<td>perdite mestruali</td>
-</tr>
-<tr>
 <td width="50%">blood</td>
 <td>il sangue</td>
 </tr>
@@ -18,8 +14,24 @@
 <td>rutto</td>
 </tr>
 <tr>
+<td width="50%">dung, droppings</td>
+<td>lo sterco</td>
+</tr>
+<tr>
+<td width="50%">excrement</td>
+<td>gli escrementi</td>
+</tr>
+<tr>
 <td width="50%">a fart</td>
 <td>scoreggia</td>
+</tr>
+<tr>
+<td width="50%">feces</td>
+<td>lo feci, il escremento</td>
+</tr>
+<tr>
+<td width="50%">menstrual discharge</td>
+<td>perdite mestruali</td>
 </tr>
 <tr>
 <td width="50%">pus</td>
@@ -32,6 +44,10 @@
 <tr>
 <td width="50%">semen</td>
 <td>lo sperma</td>
+</tr>
+<tr>
+<td width="50%">shit, crap</td>
+<td>merda</td>
 </tr>
 <tr>
 <td width="50%">sweat, perspiration</td>
@@ -54,6 +70,10 @@
 <td>ruttare</td>
 </tr>
 <tr>
+<td width="50%">to defecate</td>
+<td>defecare</td>
+</tr>
+<tr>
 <td width="50%">to ejaculate</td>
 <td>eiaculare</td>
 </tr>
@@ -68,6 +88,10 @@
 <tr>
 <td width="50%">to piss</td>
 <td>pisciare</td>
+</tr>
+<tr>
+<td width="50%">to shit</td>
+<td>cacare</td>
 </tr>
 <tr>
 <td width="50%">to squirt</td>
