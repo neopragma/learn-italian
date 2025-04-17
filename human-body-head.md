@@ -62,7 +62,7 @@
 <td>guancia</td>
 </tr>
 <tr>
-<td width="50%"></td>
-<td></td>
+<td width="50%">jaw, jawline</td>
+<td>mascella</td>
 </tr>
 </table>

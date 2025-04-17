@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <tr>
-<td width="50%">eye teetth</td>
+<td width="50%">eye teeth</td>
 <td>denti dell'occhio</td>
 </tr>
 <tr>
