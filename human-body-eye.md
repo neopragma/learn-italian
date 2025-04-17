@@ -6,6 +6,10 @@
 <td>occhio</td>
 </tr>
 <tr>
+<td width="50%">cataract</td>
+<td>cataratta</td>
+</tr>
+<tr>
 <td width="50%">cornea</td>
 <td>cornea</td>
 </tr>
