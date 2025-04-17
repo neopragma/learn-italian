@@ -1,4 +1,4 @@
-# [Human body](human-body.html) -> head 
+# [Human body](human-body.html) -> [head](human-body-head.html) -> face 
 
 <table>
 <tr>
@@ -6,16 +6,16 @@
 <td>viso</td>
 </tr>
 <tr>
-<td width="50%">forehead</td>
+<td width="50%">forehead, brow</td>
 <td>la fronte</td>
 </tr>
 <tr>
-<td width="50%">eyebrow</td>
-<td>sopracciglio</td>
+<td width="50%">furrowed brow</td>
+<td>fronte aggrottata</td>
 </tr>
 <tr>
-<td width="50%">eyelash</td>
-<td>ciglio</td>
+<td width="50%"><a href="human-body-eye.md">eye</a></td>
+<td>occhio</td>
 </tr>
 <tr>
 <td width="50%">nose</td>
@@ -28,5 +28,17 @@
 <tr>
 <td width="50%">nostril</td>
 <td>la narice</td>
+</tr>
+<tr>
+<td width="50%">pimple, zit</td>
+<td>brufolo</td>
+</tr>
+<tr>
+<td width="50%">wrinkles</td>
+<td>rughe</td>
+</tr>
+<tr>
+<td width="50%"></td>
+<td></td>
 </tr>
 </table>
