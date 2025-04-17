@@ -26,10 +26,6 @@
 <td>orecchio</td>
 </tr>
 <tr>
-<td width="50%"><a href="human-body-mouth.html">mouth</a></td>
-<td>bocca</td>
-</tr>
-<tr>
 <td width="50%">chin</td>
 <td>mento</td>
 </tr>
