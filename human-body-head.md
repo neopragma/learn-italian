@@ -6,7 +6,7 @@
 <td>testa</td>
 </tr>
 <tr>
-<td width="50%"><a href="human-body-face.md">face, visage, countenance</a></td>
+<td width="50%"><a href="human-body-face.html">face, visage, countenance</a></td>
 <td>viso</td>
 </tr>
 <tr>
