@@ -10,7 +10,7 @@
 <td>ponte del naso</td>
 </tr>
 <tr>
-<td width="50%"><a href="human-body-eye.md">eye</a></td>
+<td width="50%"><a href="human-body-eye.html">eye</a></td>
 <td>occhio</td>
 </tr>
 <tr>
