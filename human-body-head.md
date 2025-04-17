@@ -22,7 +22,7 @@
 <td>capelli</td>
 </tr>
 <tr>
-<td width="50%">ear</td>
+<td width="50%"><a href="human-body-ear.html">ear</a></td>
 <td>orecchio</td>
 </tr>
 <tr>
