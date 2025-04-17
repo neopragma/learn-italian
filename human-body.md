@@ -10,10 +10,6 @@
 <td>testa</td>
 </tr>
 <tr>
-<td width="50%">neck</td>
-<td>collo</td>
-</tr>
-<tr>
 <td width="50%">abdomen</td>
 <td>addome</td>
 </tr>
