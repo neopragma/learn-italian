@@ -82,10 +82,6 @@
 <td>coda di cavallo</td>
 </tr>
 <tr>
-<td width="50%">pigtails</td>
-<td></td>
-</tr>
-<tr>
 <td width="50%">cornrows</td>
 <td>treccine</td>
 </tr>
