@@ -18,7 +18,7 @@
 <td>tempia</td>
 </tr>
 <tr>
-<td width="50%">hair</td>
+<td width="50%"><a href="human-body-hair.html">hair</a></td>
 <td>capelli</td>
 </tr>
 <tr>
