@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%"><a href="human-body-hand.html">hand</a></td>
+<td width="50%"><a href=hand</td>
 <td>la mano</td>
 </tr>
 <tr>
