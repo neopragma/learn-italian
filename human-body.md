@@ -26,7 +26,7 @@
 <td>torace</td>
 </tr>
 <tr>
-<td width="50%">leg</td>
+<td width="50%"><a href="human-body-leg.html">leg</a></td>
 <td>gamba</td>
 </tr>
 <tr>

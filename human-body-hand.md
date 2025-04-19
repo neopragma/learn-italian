@@ -33,6 +33,9 @@
 <td width="50%">fist</td>
 <td>pugno</td>
 </tr>
+<td width="50%">give the finger</td>
+<td>fare il dito medio</td>
+</tr>
 <tr>
 <td width="50%">index finger</td>
 <td>indice</td>
