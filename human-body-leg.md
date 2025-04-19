@@ -13,7 +13,7 @@
 <td width="50%">hips</td>
 <td>fianchi</td>
 </tr>
-</<tr>
+<tr>
 <td width="50%">pelvis</td>
 <td>bacino</td>
 </tr>
