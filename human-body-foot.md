@@ -1,4 +1,4 @@
-# [Human body](human-body.html) -> leg 
+# [Human body](human-body.html) -> [leg](human-body-leg.html) -> foot 
 
 <table>
 <tr>
