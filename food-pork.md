@@ -26,6 +26,14 @@
 <td>lardo, strutto</td>
 </tr>
 <tr>
+<td width="50%">pickled pig's feet</td>
+<td>zampe di maiale sottaceto</td>
+</tr>
+<tr>
+<td width="50%">pig's feet</td>
+<td>zampe di maiale</td>
+</tr>
+<tr>
 <td width="50%">pork belly (cured pork belly)</td>
 <td>pancetta (pancetta di maiale stagionata)</td>
 </tr>
@@ -50,24 +58,16 @@
 <td>arrosto di maiale</td>
 </tr>
 <tr>
+<td width="50%">pork sausage</td>
+<td>salsiccia di maiale</td>
+</tr>
+<tr>
 <td width="50%">pork shoulder</td>
 <td>spalla di maiale</td>
 </tr>
 <tr>
 <td width="50%">pork tenderloin</td>
 <td>filetto di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork sausage</td>
-<td>salsiccia di maiale</td>
-</tr>
-<tr>
-<td width="50%">pig's feet</td>
-<td>zampe di maiale</td>
-</tr>
-<tr>
-<td width="50%">pickled pig's feet</td>
-<td>zampe di maiale sottaceto</td>
 </tr>
 <tr>
 <td width="50%">roast baby pig</td>
