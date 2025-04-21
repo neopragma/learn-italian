@@ -18,8 +18,16 @@
 <td>le frattaglie</td>
 </tr>
 <tr>
+<td width="50%">frankfurter</td>
+<td>i wurstel</td>
+</tr>
+<tr>
 <td width="50%">ham</td>
 <td>prosciutto</td>
+</tr>
+<tr>
+<td width="50%">hot dog</td>
+<td>i hot dog</td>
 </tr>
 <tr>
 <td width="50%">lard</td>
@@ -52,6 +60,10 @@
 <tr>
 <td width="50%">pork rinds</td>
 <td>cotenne di maiale</td>
+</tr>
+<tr>
+<td width="50%">pork ribs</td>
+<td>costine di maiale</td>
 </tr>
 <tr>
 <td width="50%">pork roast</td>
