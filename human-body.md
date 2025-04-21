@@ -22,7 +22,7 @@
 <td>schiena</td>
 </tr>
 <tr>
-<td width="50%">chest</td>
+<td width="50%"><a href="human-body-chest.html">chest</a></td>
 <td>torace</td>
 </tr>
 <tr>
