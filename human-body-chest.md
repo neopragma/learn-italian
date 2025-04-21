@@ -24,5 +24,4 @@
 <td width="50%">sternum</td>
 <td>sterno</td>
 </tr>
-<tr>
 </table>
