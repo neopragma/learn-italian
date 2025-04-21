@@ -6,12 +6,40 @@
 <td>il maiale</td>
 </tr>
 <tr>
+<td width="50%">American-style bacon</td>
+<td>pancetta in stile americano</td>
+</tr>
+<tr>
+<td width="50%">bacon (smoked pork belly)</td>
+<td>il bacon (pancetta di maiale affumicata)</td>
+</tr>
+<tr>
+<td width="50%">chitterlings</td>
+<td>le frattaglie</td>
+</tr>
+<tr>
+<td width="50%">lard</td>
+<td>lardo, strutto</td>
+</tr>
+<tr>
+<td width="50%">pork belly (cured pork belly)</td>
+<td>pancetta (pancetta di maiale stagionata)</td>
+</tr>
+<tr>
+<td width="50%">pork chop</td>
+<td>braciola di maiale</td>
+</tr>
+<tr>
+<td width="50%">pork fat</td>
+<td>grasso di maiale</td>
+</tr>
+<tr>
 <td width="50%">pork loin</td>
 <td>lombo di maiale</td>
 </tr>
 <tr>
-<td width="50%">pork tenderloin</td>
-<td>filetto di maiale</td>
+<td width="50%">pork rinds</td>
+<td>cotenne di maiale</td>
 </tr>
 <tr>
 <td width="50%">pork roast</td>
@@ -22,16 +50,12 @@
 <td>spalla di maiale</td>
 </tr>
 <tr>
-<td width="50%">pork chop</td>
-<td>braciola di maiale</td>
+<td width="50%">pork tenderloin</td>
+<td>filetto di maiale</td>
 </tr>
 <tr>
 <td width="50%">pork sausage</td>
 <td>salsiccia di maiale</td>
-</tr>
-<tr>
-<td width="50%">bacon</td>
-<td>il bacon, la pancetta, la pancetta afumicatta, il lardo, il lardo afumicatta</td>
 </tr>
 <tr>
 <td width="50%">pig's feet</td>
