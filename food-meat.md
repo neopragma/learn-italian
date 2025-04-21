@@ -1,4 +1,4 @@
-# [Food](food.html) -> [words for "food"](food-words.html) -> meat 
+# [Food](food.html) -> meat 
 
 <table>
 <tr>
