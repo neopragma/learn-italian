@@ -18,6 +18,10 @@
 <td>le frattaglie</td>
 </tr>
 <tr>
+<td width="50%">ham</td>
+<td>prosciutto</td>
+</tr>
+<tr>
 <td width="50%">lard</td>
 <td>lardo, strutto</td>
 </tr>
