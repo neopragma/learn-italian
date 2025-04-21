@@ -10,8 +10,8 @@
 <td>testa</td>
 </tr>
 <tr>
-<td width="50%"><a href="human-body-abdomen.html">il abdomen</a></td>
-<td>addome</td>
+<td width="50%"><a href="human-body-abdomen.html">abdomen</a></td>
+<td>il addome</td>
 </tr>
 <tr>
 <td width="50%"><a href="human-body-arm.html">arm</a></td>
