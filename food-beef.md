@@ -34,6 +34,10 @@
 <td>il bisonte</td>
 </tr>
 <tr>
+<td width="50%">chili</td>
+<td>chili</td>
+</tr>
+<tr>
 <td width="50%">filet mignon</td>
 <td>filetto mignon</td>
 </tr>
