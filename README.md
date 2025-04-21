@@ -157,6 +157,7 @@
 
 ## Phrases and patterns by subject
 
+- [Food](food.md)
 - [Human body](human-body.md)
 - [Introducing people](introductions.md)
 - [Where you live](where-you-live.md)
