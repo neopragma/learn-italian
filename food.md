@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="50%"><a href="food-words.html">words for "food"</a></td>
-<td>cibo</td>
+<td>parole per "cibo"</td>
 </tr>
 <tr>
 <td width="50%"><a href="food-meat.html">meat</a></td>
@@ -18,11 +18,15 @@
 <td>le verdure</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-fruit.html"></a></td>
+<td width="50%"><a href="food-fruit.html">fruit</a></td>
 <td>frutta</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-legumes.html"></a></td>
+<td width="50%"><a href="food-cereals.html">grains, cereals</a></td>
+<td>ceriali</td>
+</tr>
+<tr>
+<td width="50%"><a href="food-legumes.html">legumes</a></td>
 <td>legumi</td>
 </tr>
 <tr>
