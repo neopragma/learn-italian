@@ -26,8 +26,8 @@
 <td>legumi</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-.html"></a></td>
-<td></td>
+<td width="50%"><a href="food-cooking.html">cooking and food preparation</a></td>
+<td>cucina e preparazione del cibo</td>
 </tr>
 <tr>
 <td width="50%"><a href="food-.html"></a></td>
