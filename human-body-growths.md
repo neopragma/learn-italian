@@ -42,11 +42,11 @@
 <td>stigmate</td>
 </tr>
 <tr>
-<td width="50%">wart</td>
-<td>verruca</td>
+<td width="50%">tattoo</td>
+<td>tatuaggio</td>
 </tr>
 <tr>
-<td width="50%"></td>
-<td></td>
+<td width="50%">wart</td>
+<td>verruca</td>
 </tr>
 </table>
