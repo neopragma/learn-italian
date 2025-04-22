@@ -26,6 +26,10 @@
 <td>sogliola di Dover</td>
 </tr>
 <tr>
+<td width="50%">eel</td>
+<td>anguila</td>
+</tr>
+<tr>
 <td width="50%">flounder, plaice</td>
 <td>platessa</td>
 </tr>

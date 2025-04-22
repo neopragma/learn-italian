@@ -18,12 +18,16 @@
 <td>il maiale</td>
 </tr>
 <tr>
-<td width="50%">rabbit</td>
-<td>coniglio</td>
+<td width="50%">escargot, snails</td>
+<td>lumache</td>
 </tr>
 <tr>
 <td width="50%">frog legs</td>
 <td>cosce di rana</td>
+</tr>
+<tr>
+<td width="50%">rabbit</td>
+<td>coniglio</td>
 </tr>
 <tr>
 <td width="50%">venison</td>
@@ -48,10 +52,6 @@
 <tr>
 <td width="50%">smoked sausage</td>
 <td>salciccia affumicata</td>
-</tr>
-<tr>
-<td width="50%"></td>
-<td></td>
 </tr>
 <tr>
 <td width="50%"></td>
