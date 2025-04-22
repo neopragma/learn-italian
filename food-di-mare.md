@@ -10,7 +10,7 @@
 <td>pesce d'acqua dolce</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-crustacean.html">crustacean</></td>
+<td width="50%"><a href="food-crustacean.html">crustacean</a></td>
 <td>crostaceo</td>
 </tr>
 <tr>
