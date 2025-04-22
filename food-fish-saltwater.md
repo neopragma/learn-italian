@@ -1,4 +1,4 @@
-# [Food](food.html) -> [fish and seafood](food-de-mare.html) -> saltwater fish 
+# [Food](food.html) -> [fish and seafood](food-di-mare.html) -> saltwater fish 
 
 <table>
 <tr>
