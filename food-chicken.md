@@ -2,88 +2,45 @@
 
 <table>
 <tr>
-<td width="50%">pork</td>
-<td>il maiale</td>
+<td width="50%">chicken</td>
+<td>pollo</td>
 </tr>
 <tr>
-<td width="50%">American-style bacon</td>
-<td>pancetta in stile americano</td>
+<td width="50%">breast</td>
+<td>petto, petto di pollo</td>
 </tr>
 <tr>
-<td width="50%">bacon (smoked pork belly)</td>
-<td>il bacon (pancetta di maiale affumicata)</td>
+<td width="50%">chicken feet</td>
+<td>zampi di pollo</td>
 </tr>
 <tr>
-<td width="50%">chitterlings</td>
-<td>le frattaglie</td>
+<td width="50%">thigh</td>
+<td>coscia, coscia di pollo</td>
 </tr>
 <tr>
-<td width="50%">frankfurter</td>
-<td>i wurstel</td>
+<td width="50%">wing</td>
+<td>ala, ala di pollo</td>
+</tr>
+<hr>
+<tr>
+<td width="50%">baked chicken</td>
+<td>pollo al forno</td>
 </tr>
 <tr>
-<td width="50%">ham</td>
-<td>prosciutto</td>
+<td width="50%">barbequed chicken</td>
+<td>pollo alla griglia</td>
 </tr>
 <tr>
-<td width="50%">hot dog</td>
-<td>i hot dog</td>
+<td width="50%">fried chicken</td>
+<td>pollo fritto</td>
 </tr>
 <tr>
-<td width="50%">lard</td>
-<td>lardo, strutto</td>
+<td width="50%">roast chicken</td>
+<td>pollo arrosto</td>
 </tr>
 <tr>
-<td width="50%">pickled pig's feet</td>
-<td>zampe di maiale sottaceto</td>
-</tr>
-<tr>
-<td width="50%">pig's feet</td>
-<td>zampe di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork belly (cured pork belly)</td>
-<td>pancetta (pancetta di maiale stagionata)</td>
-</tr>
-<tr>
-<td width="50%">pork chop</td>
-<td>braciola di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork fat</td>
-<td>grasso di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork loin</td>
-<td>lombo di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork rinds</td>
-<td>cotenne di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork ribs</td>
-<td>costine di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork roast</td>
-<td>arrosto di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork sausage</td>
-<td>salsiccia di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork shoulder</td>
-<td>spalla di maiale</td>
-</tr>
-<tr>
-<td width="50%">pork tenderloin</td>
-<td>filetto di maiale</td>
-</tr>
-<tr>
-<td width="50%">roast baby pig</td>
-<td>maialino arrosto</td>
+<td width="50%">barbequed chicken</td>
+<td>pollo alla griglia</td>
 </tr>
 <tr>
 <td width="50%"></td>
