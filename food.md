@@ -10,7 +10,7 @@
 <td>la carne</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-fish.html">fish and seafood</a></td>
+<td width="50%"><a href="food-di-mare.html">fish and seafood</a></td>
 <td>pescare</td>
 </tr>
 <tr>
