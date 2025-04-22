@@ -21,7 +21,9 @@
 <td width="50%">wing</td>
 <td>ala, ala di pollo</td>
 </tr>
-<hr>
+<tr>
+<td colspan="2"><hr></td>
+</tr>
 <tr>
 <td width="50%">baked chicken</td>
 <td>pollo al forno</td>
