@@ -55,7 +55,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="human-body-groin.html">groin area</a></td>
-<td></td>
+<td>zona inguinale</td>
 </tr>
 <tr>
 <td width="50%"></td>
