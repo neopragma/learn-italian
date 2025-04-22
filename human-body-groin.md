@@ -86,6 +86,10 @@
 <td>prepuzio</td>
 </tr>
 <tr>
+<td width="50%">pubic hair</td>
+<td>peli pubici</td>
+</tr>
+<tr>
 <td width="50%">radix, root of the penis</td>
 <td>radice del pene</td>
 </tr>

@@ -7,7 +7,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="food-fish-freshwater.html">freshwater fish</a></td>
-<td>esce d'acqua dolce</td>
+<td>pesce d'acqua dolce</td>
 </tr>
 <tr>
 <td width="50%">crustacean</td>
