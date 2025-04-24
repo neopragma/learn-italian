@@ -1,5 +1,25 @@
 # Learn Italian 
 
+- [Online groups, person to person](#online-groups-person-to-person)
+- [Italian TV online (free only)](#italian-tv-online-free-onl)
+- [AI assistants](#ai-assistants)
+- [Online translators](#online-translators)
+- [Online Italian dictionaries](#online-italian-dictionaries)
+- [Online English-Italian dictionaries](#online-english-italian-dictionaries)
+- [Online Spanish-Italian dictionaries](#online-spanish-italian-dictionaries)
+- [Online grammar references](#online-grammar-references)
+- [YouTube channels and individual videos](#youtube-channels-and-individual-videos)
+- [Free online learning resources](#free-online-learning-resources)
+- [Online news sites in Italian](#online-news-sites-in-italian)
+- [Online audio and podcasts in Italian](#online-audio-and-podcasts-in-italian)
+- [Online crossword puzzles and word games in Italian](#online-crossword-puzzles-and-word-games-in-italian)
+- [Online learning resources with a cost](#online-learning-resources-with-a-cost)
+- [Cultural](#cultural)
+- [Italian hand gestures](#italian-hand-gestures)
+- [Phrases and patterns by subject](#phrases-and-patterns-by-subject)
+- [History](#history)
+- [Italian language proficiency certification](#italian-language-proficiency-certification)
+
 ## Online groups, person to person
 
 - [Discord: Il Salotto Italiano](https://discord.com/channels/801747149078790174/857553812699873290)
@@ -14,6 +34,9 @@
 - [Eja.tv](https://eja.tv/?country=it)
 - [How to watch Italian TV online with a VPN](https://www.comparitech.com/tv-streaming/watch-italian-tv-abroad/)
 
+## AI assistants
+
+- [ChatGPT](https://chatgpt.com)
 
 ## Online translators
 
