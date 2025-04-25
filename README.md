@@ -172,7 +172,7 @@
 
 ## Cultural 
 
-- [Berlitz - Italian Cultura and Traditions](https://www.berlitz.com/blog/italian-culture-traditions)
+- [Berlitz - Italian Culture and Traditions](https://www.berlitz.com/blog/italian-culture-traditions)
 - [Must-Know Italian Traditions for New Citizens](https://itamcap.com/blog/must-know-italian-traditions-for-new-citizens/)
 - [Italy - Cultural Atlas](https://culturalatlas.sbs.com.au/italian-culture)
 - [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
