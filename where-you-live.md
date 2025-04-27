@@ -2,6 +2,10 @@
 
 <table>
 <tr>
+<td width="50%">He lives in Italy</td>
+<td>Lui vive in Italia</td>
+</tr>
+<tr>
 <td width="50%">She lives in Milan</td>
 <td>Lei vive a Milano</td>
 </tr>
@@ -20,6 +24,26 @@
 <tr>
 <td width="50%">He lives in a penthouse</td>
 <td>Lui abita in un attico</td>
+</tr>
+<tr>
+<td width="50%">She lives in an apartment</td>
+<td>Lei abita in un appartamento</td>
+</tr>
+<tr>
+<td width="50%">I used to live in an apartment and now I live in a house</td>
+<td>Vivevo in un appartamento e ora vivo in una casa</td>
+</tr>
+<tr>
+<td width="50%">I used to live in an apartment and now I live in a house</td>
+<td>Abitavo in un appartamento e ora abito in una casa</td>
+</tr>
+<tr>
+<td width="50%">Do you prefer to live in the city or in the country?</td>
+<td>Preferisci vivere in città o in campagna?</td>
+</tr>
+<tr>
+<td width="50%">Would you rather live in the city or in the country?</td>
+<td>Preferiresti vivere in città o in campagna?</td>
 </tr>
 <tr>
 <td width="50%">I live with my brother</td>
