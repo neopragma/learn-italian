@@ -29,16 +29,4 @@
 <td width="50%">shrimp</td>
 <td>gamberetto</td>
 </tr>
-<tr>
-<td width="50%"></td>
-<td></td>
-</tr>
-<tr>
-<td width="50%"></td>
-<td></td>
-</tr>
-<tr>
-<td width="50%"></td>
-<td></td>
-</tr>
 </table>

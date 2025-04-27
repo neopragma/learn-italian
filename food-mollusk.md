@@ -21,8 +21,4 @@
 <td width="50%">squid</td>
 <td>calamaro</td>
 </tr>
-<tr>
-<td width="50%"></td>
-<td></td>
-</tr>
 </table>

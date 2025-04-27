@@ -97,8 +97,4 @@
 <td width="50%">yellowtail</td>
 <td>ricciola, ricciolo</td>
 </tr>
-<tr>
-<td width="50%"></td>
-<td></td>
-</tr>
 </table>
