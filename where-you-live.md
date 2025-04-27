@@ -93,4 +93,48 @@
 <td width="50%">Luigi lives in a ground floor apartment</td>
 <td>Luigi abita in un appartamento al piano terra</td>
 </tr>
+<tr>
+<td width="50%">Our duplex is on the end of the row</td>
+<td>Il nostro duplex è alla fine della fila</td>
+</tr>
+<tr>
+<td width="50%">Our neighbors are very noisy</td>
+<td>I nostri vicini sono molto rumorosi</td>
+</tr>
+<tr>
+<td width="50%">Our neighbors are very nosy</td>
+<td>I nostri vicini sono molto ficcanaso</td>
+</tr>
+<tr>
+<td width="50%">Our neighbor complained that our dog barks</td>
+<td>Il nostro vicino si è lamentato del fatto che il nostro cane abbaia</td>
+</tr>
+<tr>
+<td width="50%">We need to move into a three bedroom apartment before the baby is born</td>
+<td>Dobbiamo trasferirci in una trilocale da letto prima che nasca il bambino</td>
+</tr>
+<tr>
+<td width="50%">Our apartment is on the fourth floor</td>
+<td>Il nostro appartamento è al quarto piano</td>
+</tr>
+<tr>
+<td width="50%">We live near the train station</td>
+<td>Viviamo vicino alla stazione ferroviaria</td>
+</tr>
+<tr>
+<td width="50%">We live within walking distance of a supermarket and pharmacy</td>
+<td>Viviamo a pochi passi da un supermercato e da una farmacia</td>
+</tr>
+<tr>
+<td width="50%">Our apartment has a parking space that we rent out, since we don't have a car</td>
+<td>Il nostro appartamento ha un posto auto che affittiamo, dato che non abbiamo la macchina</td>
+</tr>
+<tr>
+<td width="50%"></td>
+<td></td>
+</tr>
+<tr>
+<td width="50%"></td>
+<td></td>
+</tr>
 </table>
