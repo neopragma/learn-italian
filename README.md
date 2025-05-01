@@ -119,6 +119,7 @@
 - [ANSA](https://www.ansa.it)
 - [Corriere Della Sera](https://www.corriere.it)
 - [EuroNews](https://it.euronews.com)
+- [News In Slow](https://www.newsinslowitalian.com) ($20/mo)
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
 
