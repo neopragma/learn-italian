@@ -107,6 +107,7 @@
 
 ## Free online learning resources 
 
+- [Duo Italian](https://www.duoitalian.com/)
 - [The Italian Experiment](https://www.theitalianexperiment.com)
 - [Online Italian Club](https://onlineitalianclub.com)
 - [Corso d'italiano online](https://italiano-bello.com/en/italian-courses/)
@@ -119,7 +120,6 @@
 - [ANSA](https://www.ansa.it)
 - [Corriere Della Sera](https://www.corriere.it)
 - [EuroNews](https://it.euronews.com)
-- [News In Slow](https://www.newsinslowitalian.com) ($20/mo)
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
 
@@ -133,7 +133,6 @@
 - [La bottega di Babbel](https://www.spreaker.com/podcast/la-bottega-di-babbel--4128775)
 - [La linguacciuta](https://www.spreaker.com/podcast/la-linguacciuta--3271976)
 - [Learn Italian with Music](https://open.spotify.com/show/0GvADcYOpeDGo6bFrHy9h3?si=e664c01b9bff4cde&nd=1&dlsi=666e37242b634403)
-- [News In Slow](https://www.newsinslowitalian.com) adjustable playback speed
 - [Scientificast](https://www.scientificast.it)
 - [Senza Rosetto](https://www.senzarossettopodcast.it/podcast/)
 
@@ -158,9 +157,12 @@
 
 ## Online learning resources with a cost 
 
+- [Italki](https://www.italki.com) (hire a teacher for 1 on 1 learning)
 - [Learn Italian with TV](https://join.lingopie.com/learn-italian-with-tv?lmid=14539718801%5E169250015457)
 - [Loecsen - Learn Italian](https://www.loecsen.com/en/learn-italian#/en/Essentials)
+- [News In Slow](https://www.newsinslowitalian.com) ($20/mo)
 - [Società Dante Alighieri](https://www.dante.global/en/courses/italian-courses/general)
+
 
 ## Italian hand gestures 
 
