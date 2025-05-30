@@ -123,6 +123,11 @@
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
 
+## Online reading and information 
+
+- [Wikipedia.it](it.wikipedia.org)
+- [Universita Bocconi](https://www.unibocconi.it/it)
+
 ## Online audio and podcasts in Italian 
 
 - [4 Verticale](https://soundcloud.com/podcast-babbel)
