@@ -125,6 +125,7 @@
 
 ## Online reading and information 
 
+- [La Sacra Bibbia](https://www.bible.com/languages/ita)
 - [Wikipedia.it](it.wikipedia.org)
 - [Universita Bocconi](https://www.unibocconi.it/it)
 
@@ -158,6 +159,14 @@
 - [Surface Languages](https://www.surfacelanguages.com/language/Italian/crosswords/italianmediumcrossword.html) medium
 - [Surface Languages](https://www.surfacelanguages.com/language/Italian/crosswords/italianhardcrossword.html) hard 
 - [Word Mint](https://wordmint.com/categories/italian-language?page=10) list of Italian crossword puzzle and word game sites
+
+## Legal topics 
+
+- [Constituzione italiana](https://www.governo.it/it/costituzione-italiana/2836)
+- [Oxford Univ. Italian Law](https://libguides.bodleian.ox.ac.uk/law-italy/legislation)
+- [Codice civile](https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/it/it/it212it.pdf)
+
+
 
 
 ## Online learning resources with a cost 
