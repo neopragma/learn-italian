@@ -30,6 +30,26 @@
 <td>See you Friday</td>
 </tr>
 <tr>
+<td width="50%">Ci vediamo la prossima settimana</td>
+<td>See you next week</td>
+</tr>
+<tr>
+<td width="50%">Ci vediamo nel fine settimana</td>
+<td>See you on the weekend</td>
+</tr>
+<tr>
+<td width="50%">Ci vediamo il prossimo fine settimana</td>
+<td>See you next weekend</td>
+</tr>
+<tr>
+<td width="50%">Ci vediamo quando gli asini voleranno</td>
+<td>See you when donkeys fly</td>
+</tr>
+<tr>
+<td width="50%">Ci vediamo quando avremo il sole a mezzanotte</td>
+<td>See you when we have the midnight sun</td>
+</tr>
+<tr>
 <td width="50%">Buon giorno</td>
 <td>Good morning, good day</td>
 </tr>
