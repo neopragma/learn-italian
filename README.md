@@ -223,3 +223,8 @@
 - [B1 Italian Language Exam for Italian Citizenship](https://www.europassitalian.com/language-exams/b1-for-citizenship/) Europass Italian Language School 
 - [CELI for Italian Citizenship](https://collinaitaliana.com/celi-citizenship-italian-certification/) at Collina Italiana 
 - [Language Certifications](https://iicnewyork.esteri.it/en/lingua-e-cultura/certificazioni/) Istituto Italiano di Cultura di New York
+
+## Patente - driver's license 
+
+- [Summary of steps with some links](https://www.pratichiamolegge.it/en/italian-drivers-licence-how-to-obtain-it/)
+
