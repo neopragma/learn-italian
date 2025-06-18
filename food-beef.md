@@ -98,10 +98,6 @@
 <td>filetto di manzo</td>
 </tr>
 <tr>
-<td width="50%">strip steak</td>
-<td>bistecca di controfiletto</td>
-</tr>
-<tr>
 <td width="50%">steak tartare</td>
 <td>bistecca alla tartara</td>
 </tr>
