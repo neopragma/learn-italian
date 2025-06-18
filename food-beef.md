@@ -106,6 +106,10 @@
 <td>punte di manzo</td>
 </tr>
 <tr>
+<td width="50%">roast beef</td>
+<td>arrosto di manzo</td>
+</tr>
+<tr>
 <td width="50%"></td>
 <td></td>
 </tr>
