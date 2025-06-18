@@ -54,7 +54,7 @@
 <td>I'm fine</td>
 </tr>
 <tr>
-<td width="50%"></td>
-<td></td>
+<td width="50%">Così così </td>
+<td>So-so</td>
 </tr>
 </table>
