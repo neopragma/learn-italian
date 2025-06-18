@@ -86,6 +86,14 @@
 <td>bistecca con l'osso a T</td>
 </tr>
 <tr>
+<td width="50%">strip steak</td>
+<td>bistecca di controfiletto</td>
+</tr>
+<tr>
+<td width="50%">ribeye steak</td>
+<td>bistecca di ribeye</td>
+</tr>
+<tr>
 <td width="50%">tenderloin</td>
 <td>filetto di manzo</td>
 </tr>
@@ -98,8 +106,8 @@
 <td>bistecca alla tartara</td>
 </tr>
 <tr>
-<td width="50%"></td>
-<td></td>
+<td width="50%">beef tips</td>
+<td>punte di manzo</td>
 </tr>
 <tr>
 <td width="50%"></td>
