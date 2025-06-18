@@ -110,6 +110,10 @@
 <td>arrosto di manzo</td>
 </tr>
 <tr>
+<td width="50%">raw beef</td>
+<td>manzo crudo</td>
+</tr>
+<tr>
 <td width="50%"></td>
 <td></td>
 </tr>
