@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td width="50%">medium rare</td>
-<td>bistecca al sangue</td>
+<td>bistecca al sangue media</td>
 </tr>
 <tr>
 <td width="50%">medium</td>
