@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td width="50%">ground beef</td>
-<td>carne di manzo macinata</td>
+<td>carne di manzo macinata<br/>carne macinata di manzo</td>
 </tr>
 <tr>
 <td width="50%">hamburger</td>
@@ -92,6 +92,10 @@
 <tr>
 <td width="50%">strip steak</td>
 <td>bistecca di controfiletto</td>
+</tr>
+<tr>
+<td width="50%">steak tartare</td>
+<td>bistecca alla tartara</td>
 </tr>
 <tr>
 <td width="50%"></td>
