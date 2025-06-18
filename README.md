@@ -199,6 +199,7 @@
 
 - [Food](food.md)
 - [Human body](human-body.md)
+- [Hello and goodbye](hello-goodbye.md)
 - [Introducing people](introductions.md)
 - [Where you live](where-you-live.md)
 
