@@ -168,9 +168,6 @@
 - [Oxford Univ. Italian Law](https://libguides.bodleian.ox.ac.uk/law-italy/legislation)
 - [Codice civile](https://wipolex-resources-eu-central-1-358922420655.s3.amazonaws.com/edocs/lexdocs/laws/it/it/it212it.pdf)
 
-
-
-
 ## Online learning resources with a cost 
 
 - [Italki](https://www.italki.com) (hire a teacher for 1 on 1 learning)
@@ -200,6 +197,7 @@
 ## Phrases and patterns by subject
 
 - [Food](food.md)
+- [Giorno _vs._ giornata](giorno-giornata.md)
 - [Human body](human-body.md)
 - [Hello and goodbye](hello-goodbye.md)
 - [Introducing people](introductions.md)
