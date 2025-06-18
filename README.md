@@ -201,6 +201,7 @@
 - [Human body](human-body.md)
 - [Hello and goodbye](hello-goodbye.md)
 - [Introducing people](introductions.md)
+- [Vivere _vs._ abitare](#vivere-abitare.md)
 - [Where you live](where-you-live.md)
 
 
