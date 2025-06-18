@@ -1,9 +1,5 @@
 # Learn Italian 
 
-<table>
-<tr>
-<td width="50%">
-
 - [Online groups, person to person](#online-groups-person-to-person)
 - [Italian TV online (free only)](#italian-tv-online-free-onl)
 - [AI assistants](#ai-assistants)
@@ -16,8 +12,6 @@
 - [Free online learning resources](#free-online-learning-resources)
 - [Online news sites in Italian](#online-news-sites-in-italian)
 - [Online audio and podcasts in Italian]
-</td>
-<td>
 (#online-audio-and-podcasts-in-italian)
 - [Online crossword puzzles and word games in Italian](#online-crossword-puzzles-and-word-games-in-italian)
 - [Legal topics](#legal-topics)
@@ -28,9 +22,6 @@
 - [History](#history)
 - [Italian language proficiency certification](#italian-language-proficiency-certification)
 - [Patente - driver's license](#patente---drivers-license) 
-</td>
-</tr>
-</table>
 
 ## Online groups, person to person
 
