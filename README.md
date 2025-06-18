@@ -16,7 +16,7 @@
 - [Online crossword puzzles and word games in Italian](#online-crossword-puzzles-and-word-games-in-italian)
 - [Legal topics](#legal-topics)
 </div>
-<div float="left" width="50%">
+<div float="right" clear="right" width="50%">
 
 - [Online learning resources with a cost](#online-learning-resources-with-a-cost)
 - [Cultural](#cultural)
