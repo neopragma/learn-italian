@@ -1,5 +1,6 @@
 # Learn Italian 
 
+<div float="left" width="50%">
 - [Online groups, person to person](#online-groups-person-to-person)
 - [Italian TV online (free only)](#italian-tv-online-free-onl)
 - [AI assistants](#ai-assistants)
@@ -14,6 +15,9 @@
 - [Online audio and podcasts in Italian](#online-audio-and-podcasts-in-italian)
 - [Online crossword puzzles and word games in Italian](#online-crossword-puzzles-and-word-games-in-italian)
 - [Legal topics](#legal-topics)
+</div>
+<div float="left" width="50%">
+
 - [Online learning resources with a cost](#online-learning-resources-with-a-cost)
 - [Cultural](#cultural)
 - [Italian hand gestures](#italian-hand-gestures)
@@ -21,6 +25,7 @@
 - [History](#history)
 - [Italian language proficiency certification](#italian-language-proficiency-certification)
 - [Patente - driver's license](#patente---drivers-license)
+</div>
 
 ## Online groups, person to person
 
