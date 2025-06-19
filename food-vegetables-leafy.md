@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td width="50%"><a href="food-vegetables-leafy.html">verdure a foglia</a></td>
+<td width="50%"><a href="food-vegetables-leafy.md">verdure a foglia</a></td>
 <td>leafy vegetables</td>
 </tr>
 <tr>
-<td width="50%"><a href="food-vegetables-root.html">verdure a radice</a></td>
+<td width="50%"><a href="food-vegetables-root.md">verdure a radice</a></td>
 <td>root vegetables</td>
 </tr>
 <tr>

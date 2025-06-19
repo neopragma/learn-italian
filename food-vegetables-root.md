@@ -1,6 +1,10 @@
-# [Food](food.html) -> [vegetables](food-vegetables.md) -> root vegetables 
+# [Food](food.html) -> [vegetables](food-vegetables.html) -> root vegetables 
 
 <table>
+<tr>
+<td width="50%">barbabietola</td>
+<td>beetroot</td>
+</tr>
 <tr>
 <td width="50%">carota</td>
 <td>carrot</td>
