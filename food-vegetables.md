@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%"><a href="food-vegetables-root.md"</a>verdure a radice</td>
+<td width="50%"><a href="food-vegetables-root.md"></a>verdure a radice</td>
 <td>root vegetables</td>
 </tr>
 <tr>
@@ -34,10 +34,6 @@
 <td>chickpeas</td>
 </tr>
 <tr>
-<td width="50%">cipolla</td>
-<td>onion</td>
-</tr>
-<tr>
 <td width="50%">fagiolino</td>
 <td>green bean</td>
 </tr>
@@ -62,10 +58,6 @@
 <td>eggplant</td>
 </tr>
 <tr>
-<td width="50%">patata</td>
-<td>potato</td>
-</tr>
-<tr>
 <td width="50%">peperone</td>
 <td>bell pepper</td>
 </tr>
@@ -80,10 +72,6 @@
 <tr>
 <td width="50%">porro</td>
 <td>leek</td>
-</tr>
-<tr>
-<td width="50%">ravanello</td>
-<td>radish</td>
 </tr>
 <tr>
 <td width="50%">sedano</td>
