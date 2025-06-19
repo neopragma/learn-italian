@@ -6,6 +6,10 @@
 <td>carrot</td>
 </tr>
 <tr>
+<td width="50%">cipolla</td>
+<td>onion</td>
+</tr>
+<tr>
 <td width="50%">patata</td>
 <td>potato</td>
 </tr>
