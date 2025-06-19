@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%"><a href="food-vegetables-root.md"></a>verdure a radice</td>
+<td width="50%"><a href="food-vegetables-root.md">verdure a radice</a></td>
 <td>root vegetables</td>
 </tr>
 <tr>
