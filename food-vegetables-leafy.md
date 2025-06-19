@@ -1,25 +1,9 @@
-# [Food](food.html) -> vegetables 
+# [Food](food.html) -> [vegetables](food-vegetables.html) -> leafy vegetables 
 
 <table>
 <tr>
-<td width="50%"><a href="food-vegetables-leafy.md">verdure a foglia</a></td>
-<td>leafy vegetables</td>
-</tr>
-<tr>
-<td width="50%"><a href="food-vegetables-root.md">verdure a radice</a></td>
-<td>root vegetables</td>
-</tr>
-<tr>
 <td width="50%">asparago</td>
 <td>asparagus</td>
-</tr>
-<tr>
-<td width="50%">barbabietola</td>
-<td>beetroot</td>
-</tr>
-<tr>
-<td width="50%">bietola</td>
-<td>Swiss chard</td>
 </tr>
 <tr>
 <td width="50%">broccoli</td>
