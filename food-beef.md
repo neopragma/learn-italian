@@ -114,6 +114,14 @@
 <td>manzo crudo</td>
 </tr>
 <tr>
+<td width="50%">chewy steak</td>
+<td>bistecca gommosa</td>
+</tr>
+<tr>
+<td width="50%">tough steak</td>
+<td>bistecca dura</td>
+</tr>
+<tr>
 <td width="50%"></td>
 <td></td>
 </tr>
