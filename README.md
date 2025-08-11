@@ -226,6 +226,10 @@
 - [B1 Italian Language Exam for Italian Citizenship](https://www.europassitalian.com/language-exams/b1-for-citizenship/) Europass Italian Language School 
 - [CELI for Italian Citizenship](https://collinaitaliana.com/celi-citizenship-italian-certification/) at Collina Italiana 
 - [Language Certifications](https://iicnewyork.esteri.it/en/lingua-e-cultura/certificazioni/) Istituto Italiano di Cultura di New York
+- [CILS Cittadinanza - Prep Guide](https://examenexam.com/gb/en/exam-cils-b1-cittadinanza?utm_source=chatgpt.com)
+- [Precorso CILS Cittadinanza (B1)](https://www.ornimieditions.com/en/books/italian/percorso-cils-cittadinanza-b1-test-di-preparazione-audio-scaricabile-detail)
+- [Precorso CILS Cittadinanza - book and audio](https://store.bsmart.it/it/BY/products/percorso-cils-cittadinanza-b1-audio)
+- [Reddit](https://www.reddit.com/r/italianlearning/comments/1e4u049/cils_b1_cittadinanza_july_18th/?utm_source=chatgpt.com)
 
 ## Patente - driver's license 
 
