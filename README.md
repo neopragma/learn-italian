@@ -122,8 +122,10 @@
 - [ANSA](https://www.ansa.it)
 - [Corriere Della Sera](https://www.corriere.it)
 - [EuroNews](https://it.euronews.com)
+- [Il Giornale](https://www.ilgiornale.it) 
 - [Rai News](https://www.rainews.it)
 - [Sky TG24](https://tg24.sky.it)
+- [Ultima Bozza](https://ultimabozza.it)
 
 ## Online reading and information 
 

@@ -14,6 +14,10 @@
 <td>pescare</td>
 </tr>
 <tr>
+<td width="50%"><a href="food-fungus.html">fungus</a></td>
+<td>funghi</td>
+</tr>
+<tr>
 <td width="50%"><a href="food-vegetables.html">vegetables</a></td>
 <td>le verdure</td>
 </tr>

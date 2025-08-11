@@ -30,10 +30,6 @@
 <td>fennel</td>
 </tr>
 <tr>
-<td width="50%">funghi</td>
-<td>mushrooms</td>
-</tr>
-<tr>
 <td width="50%">lattuga</td>
 <td>lettuce</td>
 </tr>
