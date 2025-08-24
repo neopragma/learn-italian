@@ -106,6 +106,13 @@
 - [Podcast Italiano](https://www.youtube.com/@PodcastItaliano)
 - [Stories to Sleep in Italian](https://www.youtube.com/watch?v=C4Ge0rW5pM4) (8 hours)
 - [Useful Italian with Chris](https://www.youtube.com/@UsefulItalian)
+- [Learn Italian by Watching TV Shows](https://try.lingopie.com/it/learn-italian-by-watching-tv-shows)
+- [Italian Stories for Beginners (A1-A2)](https://www.youtube.com/playlist?list=PL1gagD5BWjTlkM-SJ_n62qBGceA4WcFLO)
+- [Learn Italian with Stories](https://www.youtube.com/@LearnItalianWithStories)
+- [Daily Italian with Elena](https://www.youtube.com/@dailyitalianwithelena3733)
+- [Epic Italian Journey](https://www.youtube.com/@EpicItalianJourney)
+- [Italian Pod](https://www.italianpod101.com/)
+
 
 ## Free online learning resources 
 
@@ -178,6 +185,7 @@
 - [Loecsen - Learn Italian](https://www.loecsen.com/en/learn-italian#/en/Essentials)
 - [News In Slow](https://www.newsinslowitalian.com) ($20/mo)
 - [Società Dante Alighieri](https://www.dante.global/en/courses/italian-courses/general)
+- [Preply](https://preply.com/it/) (Individual instructors with varying rates)
 
 
 ## Italian hand gestures 
