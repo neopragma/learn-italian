@@ -112,7 +112,8 @@
 - [Daily Italian with Elena](https://www.youtube.com/@dailyitalianwithelena3733)
 - [Epic Italian Journey](https://www.youtube.com/@EpicItalianJourney)
 - [Italian Pod](https://www.italianpod101.com/)
-
+- [Bee Italian!](https://www.youtube.com/@beeitalian4086)
+- [Italian Teacher Valentina](https://www.youtube.com/@ItalianTeacherValentina)
 
 ## Free online learning resources 
 
