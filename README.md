@@ -114,6 +114,12 @@
 - [Italian Pod](https://www.italianpod101.com/)
 - [Bee Italian!](https://www.youtube.com/@beeitalian4086)
 - [Italian Teacher Valentina](https://www.youtube.com/@ItalianTeacherValentina)
+- [Italian Fairy Tales](https://www.youtube.com/@ItalianFairyTales)
+- [Italian Stories](https://www.youtube.com/@ItalianStories_StorieItaliane)
+- [Il Gabbiano e la Balena](https://www.youtube.com/watch?v=zRJwWALa2-s)
+- [Italiando - Learn Italian with Silvia](https://www.youtube.com/@italiando-learnitalian)
+- [Italiano Tales](https://www.youtube.com/@italianotales)
+
 
 ## Free online learning resources 
 
