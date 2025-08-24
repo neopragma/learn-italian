@@ -81,6 +81,18 @@
 - [One World Italiano Grammar Reference](https://oneworlditaliano.com/en/italian-grammar/grammar-reference/)
 - [ALLORA Online Grammar Reference](https://sites.google.com/a/nyu.edu/allora-grammar/grammar-guide)
 
+## Phrases and patterns by subject
+
+- [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
+- [Food](food.md)
+- [Giorno _vs._ giornata](giorno-giornata.md)
+- [Human body](human-body.md)
+- [Hello and goodbye](hello-goodbye.md)
+- [Introducing people](introductions.md)
+- [Verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
+- [Vivere _vs._ abitare](#vivere-abitare.md)
+- [Where you live](where-you-live.md)
+
 ## YouTube channels and individual videos 
 
 - [Coffee Break Italian](https://www.youtube.com/@coffeebreakitalian) channel
@@ -211,18 +223,6 @@
 - [Italy - Cultural Atlas](https://culturalatlas.sbs.com.au/italian-culture)
 - [Never Do This When Visiting Italy!](https://www.youtube.com/watch?v=drojd1HYtcM) 
 - [Italian Locals Hate It When Tourists Do These Things](https://www.youtube.com/watch?v=BBkP7Uxrq3Y)
-
-## Phrases and patterns by subject
-
-- [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
-- [Food](food.md)
-- [Giorno _vs._ giornata](giorno-giornata.md)
-- [Human body](human-body.md)
-- [Hello and goodbye](hello-goodbye.md)
-- [Introducing people](introductions.md)
-- [Verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
-- [Vivere _vs._ abitare](#vivere-abitare.md)
-- [Where you live](where-you-live.md)
 
 
 ## History 
