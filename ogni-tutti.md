@@ -70,9 +70,7 @@ The form _tutti i [time word]_ has a sense of regularity, routine, ritual, or di
 </tr>
 </table>
 
-<hr/>
-
-#### Examples 
+<h3>Examples</h3>
 
 <table>
 <tr>
@@ -173,7 +171,12 @@ Students enroll at the university every year in September.
 </tr>
 </table>
 
+<p>
 Sometimes the difference in nuance is unclear.
-
-- Mi esercito con la chitarra ogni pomeriggio.
-- Mi esercito con la chitarra tutti i pomeriggi.
+</p>
+<p>
+<ul>
+<li>Mi esercito con la chitarra ogni pomeriggio.</li>
+<li>Mi esercito con la chitarra tutti i pomeriggi.</li>
+</ul>
+</p>
