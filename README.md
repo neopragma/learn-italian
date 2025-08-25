@@ -92,7 +92,7 @@
 ## Phrases and patterns by subject
 
 - [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
-- [di _vs._ dal/dalla](di-dal-dalla.md)
+- [di _vs._ del/della](di-del-della.md)
 - [Giorno _vs._ giornata](giorno-giornata.md)
 - [Verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
 - [Vivere _vs._ abitare](#vivere-abitare.md)

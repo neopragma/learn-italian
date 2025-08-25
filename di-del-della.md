@@ -1,4 +1,4 @@
-# di _vs._ dal/dalla
+# di _vs._ del/della
 
 ## di: of, from, about, than 
 
@@ -19,8 +19,8 @@
 
 #### Description/type 
 
-- Una lezione di matematica 
-- Un film di avventura
+- Una lezione **di** matematica 
+- Un film **di** avventura
 
 #### Comparison 
 
