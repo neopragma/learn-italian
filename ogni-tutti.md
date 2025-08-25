@@ -8,8 +8,7 @@ The form _ogni [time word]_ has the sense of "each time."
 
 The form _tutti i [time word]_ has a sense of regularity, routine, ritual, or disciplined practice.
 
-<hr/>
-
+<p>
 <table>
 <tr>
 <th>ogni</th><th>translation<th>tutti i</th><th>translation</th>
@@ -69,9 +68,11 @@ The form _tutti i [time word]_ has a sense of regularity, routine, ritual, or di
 <td width="25%">every year (regularly)</td>
 </tr>
 </table>
+</p>
 
 <h3>Examples</h3>
 
+<p>
 <table>
 <tr>
 <td width="50%">
@@ -170,6 +171,7 @@ Students enroll at the university every year in September.
 </td>
 </tr>
 </table>
+</p>
 
 <p>
 Sometimes the difference in nuance is unclear.
