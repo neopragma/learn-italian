@@ -81,17 +81,21 @@
 - [One World Italiano Grammar Reference](https://oneworlditaliano.com/en/italian-grammar/grammar-reference/)
 - [ALLORA Online Grammar Reference](https://sites.google.com/a/nyu.edu/allora-grammar/grammar-guide)
 
-## Phrases and patterns by subject
+## Categorized vocabulary
 
-- [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
 - [Food](food.md)
-- [Giorno _vs._ giornata](giorno-giornata.md)
 - [Human body](human-body.md)
 - [Hello and goodbye](hello-goodbye.md)
 - [Introducing people](introductions.md)
+- [Where you live](where-you-live.md)
+
+## Phrases and patterns by subject
+
+- [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
+- [di _vs._ dal/dalla](di-dal-dalla.md)
+- [Giorno _vs._ giornata](giorno-giornata.md)
 - [Verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
 - [Vivere _vs._ abitare](#vivere-abitare.md)
-- [Where you live](where-you-live.md)
 
 ## YouTube channels and individual videos 
 
