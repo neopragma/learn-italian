@@ -92,6 +92,7 @@
 ## Phrases and patterns by subject
 
 - [andare and andarsene](andare-andarsene.md)
+- [battere](battere.md)
 - [connecting words](connecting-words.md) - parole che introducano o collegano idee 
 - [di _vs._ del/della](di-del-della.md)
 - [giorno _vs._ giornata](giorno-giornata.md)

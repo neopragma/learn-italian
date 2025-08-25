@@ -17,12 +17,16 @@ to encounter, to meet (with), to see (someone), to come up against, to run up ag
 <td width="50%">you meet me</td>
 </tr>
 <tr>
-<td width="50%">l'incontro (li + incontro)</td>
-<td width="50%">I meet them</td>
-</tr>
-<tr>
 <td width="50%">ti incontro</td>
 <td width="50%">I meet you</td>
+</tr>
+<tr>
+<td width="50%">m'incontrano (mi + incontrano)</td>
+<td width="50%">they meet me</td>
+</tr>
+<tr>
+<td width="50%">l'incontro (li + incontro)</td>
+<td width="50%">I meet them</td>
 </tr>
 <tr>
 <td width="50%">li incontri</td>
