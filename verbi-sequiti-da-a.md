@@ -47,21 +47,6 @@ Some verbs are followed by "a" + infinitive. These are often verbs of movement, 
 <td width="33%">to manage (to do something)</td>
 <td width="34%">Non riesco a dormire.</td>
 </tr>
-<tr>
-<td width="33%"></td>
-<td width="33%"></td>
-<td width="34%"></td>
-</tr>
-<tr>
-<td width="33%"></td>
-<td width="33%"></td>
-<td width="34%"></td>
-</tr>
-<tr>
-<td width="33%"></td>
-<td width="33%"></td>
-<td width="34%"></td>
-</tr>
 </table>
 </p>
 
