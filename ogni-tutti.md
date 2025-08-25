@@ -25,6 +25,30 @@ The form _tutti i [time word]_ has a sense of regularity, routine, ritual, or di
 <td width="25%">every day (regularly)</td>
 </tr>
 <tr>
+<td width="25%">ogni mattina</td>
+<td width="25%">every (each) morning</td>
+<td width="25%">tutte le mattine</td>
+<td width="25%">every morning (regularly)</td>
+</tr>
+<tr>
+<td width="25%">ogni pomeriggio</td>
+<td width="25%">every (each) afternoon</td>
+<td width="25%">tutti i pomeriggi</td>
+<td width="25%">every afternoon (regularly)</td>
+</tr>
+<tr>
+<td width="25%">ogni sera</td>
+<td width="25%">every (each) evening</td>
+<td width="25%">tutte le sere</td>
+<td width="25%">every evening (regularly)</td>
+</tr>
+<tr>
+<td width="25%">ogni notte</td>
+<td width="25%">every (each) night</td>
+<td width="25%">tutte le notti</td>
+<td width="25%">every night (regularly)</td>
+</tr>
+<tr>
 <td width="25%">ogni settimana</td>
 <td width="25%">every (each) week</td>
 <td width="25%">tutte le settimane</td>
