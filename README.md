@@ -95,6 +95,7 @@
 - [connecting words](connecting-words.md) - parole che introducano o collegano idee 
 - [di _vs._ del/della](di-del-della.md)
 - [giorno _vs._ giornata](giorno-giornata.md)
+- [incontrare](incontrare.md)
 - [italiano _vs._ l'italiano](italiano-l-italiano.md)
 - [ogni _vs._ tutti](ogni-tutti.md)
 - [verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
