@@ -156,7 +156,7 @@ Folksy sayings and idiomatic expressions.
 </table>
 </p>
 
-<h3>Naples/Neapolitan Dialect
+<h3>Naples/Neapolitan Dialect</h3>
 
 <table>
 <tr>
