@@ -122,6 +122,7 @@ Folksy sayings and idiomatic expressions.
 
 <h3>Rome/Romanesco Dialect</h3>
 
+<p>
 <table>
 <tr>
 <td width="33%">mannaggia la miseria!</td>
@@ -158,6 +159,7 @@ Folksy sayings and idiomatic expressions.
 
 <h3>Naples/Neapolitan Dialect</h3>
 
+<p>
 <table>
 <tr>
 <td width="33%">Cca nisciuno è fesso.</td>
@@ -184,9 +186,12 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">Don't worry.</td>
 <td width="34%">Chill out, it's fine.</td>
 </tr>
+</table>
+</p>
 
 <h3>Sicily/Sicilian Dialect</h3>
 
+<p>
 <table>
 <tr>
 <td width="33%">Cu mancia fa muddichi.</td>
@@ -213,34 +218,33 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">You look like an old gossip.</td>
 <td width="34%">You talk too much.</td>
 </tr>
+</table>
+</p>
 
 <h3>Tuscany/Florentine Influence</h3>
 
+<p>
 <table>
 <tr>
 <td width="33%">Che tu vòle?</td>
 <td width="33%">What do you want?</td>
 <td width="34%">What are you looking at? (mildly confrontational)</td>
 </tr>
-</table>
 <tr>
 <td width="33%">Fatti una risata!</td>
 <td width="33%">Have a laugh!</td>
 <td width="34%">Lighten up!</td>
 </tr>
-</table>
 <tr>
 <td width="33%">essere in bolla</td>
 <td width="33%">to be in a bubble</td>
 <td width="34%">to be doing well; in a good place</td>
 </tr>
-</table>
 <tr>
 <td width="33%">L'è tutto 'n programma.</td>
 <td width="33%">He/she is a whole program.</td>
 <td width="34%">She/she's a character!</td>
 </tr>
-</table>
 <tr>
 <td width="33%">Grullo!</td>
 <td width="33%">Fool!</td>
