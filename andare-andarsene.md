@@ -7,9 +7,9 @@
 - Dove vai?
 
 <table>
-<th>
-<td>pronoun</td><td>present</td>
-</th>
+<tr>
+<th>pronoun</th><th>present</th>
+</tr>
 <tr>
 <td width="50%">io</td>
 <td width="50%">vado</td>
