@@ -72,7 +72,7 @@ Some verbs are followed by "a" + infinitive. These are often verbs of movement, 
 <tr>
 <td width="33%">pensare a<br/>pensare di</td>
 <td width="33%">to think about (something)<br/>to think of doing something</td>
-<td width="34%">Sta pensando di andare in Spagna.<br/>Penso di uscire presto.</td>
+<td width="34%">Pensa alla storia.<br/>Penso di uscire presto.</td>
 </tr>
 </table>
 </p>
