@@ -125,6 +125,9 @@ Folksy sayings and idiomatic expressions.
 <p>
 <table>
 <tr>
+<th>Expression</th><th>English<br/>literal trans.</th><th>Explanation<br/>or equivalent</th>
+</tr>
+<tr>
 <td width="33%">mannaggia la miseria!</td>
 <td width="33%">curse the misery!</td>
 <td width="34%">damn it!</td>
@@ -162,6 +165,9 @@ Folksy sayings and idiomatic expressions.
 <p>
 <table>
 <tr>
+<th>Expression</th><th>English<br/>literal trans.</th><th>Explanation<br/>or equivalent</th>
+</tr>
+<tr>
 <td width="33%">Cca nisciuno è fesso.</td>
 <td width="33%">Here, nobody is stupid.</td>
 <td width="34%">You can't fool us.</td>
@@ -194,6 +200,9 @@ Folksy sayings and idiomatic expressions.
 <p>
 <table>
 <tr>
+<th>Expression</th><th>English<br/>literal trans.</th><th>Explanation<br/>or equivalent</th>
+</tr>
+<tr>
 <td width="33%">Cu mancia fa muddichi.</td>
 <td width="33%">Whoever eats makes crumbs.</td>
 <td width="34%">Nobody's perfect; mistakes happen.</td>
@@ -225,6 +234,9 @@ Folksy sayings and idiomatic expressions.
 
 <p>
 <table>
+<tr>
+<th>Expression</th><th>English<br/>literal trans.</th><th>Explanation<br/>or equivalent</th>
+</tr>
 <tr>
 <td width="33%">Che tu vòle?</td>
 <td width="33%">What do you want?</td>
