@@ -83,6 +83,7 @@
 
 ## Categorized vocabulary
 
+- [Expressions](expressions.md)
 - [Food](food.md)
 - [Human body](human-body.md)
 - [Hello and goodbye](hello-goodbye.md)
