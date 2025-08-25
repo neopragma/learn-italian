@@ -92,11 +92,12 @@
 ## Phrases and patterns by subject
 
 - [andare and andarsene](andare-andarsene.md)
-- [Connecting Words](connecting-words.md) - parole che introducano o collegano idee 
+- [connecting words](connecting-words.md) - parole che introducano o collegano idee 
 - [di _vs._ del/della](di-del-della.md)
-- [Giorno _vs._ giornata](giorno-giornata.md)
-- [Verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
-- [Vivere _vs._ abitare](#vivere-abitare.md)
+- [giorno _vs._ giornata](giorno-giornata.md)
+- [ogni _vs._ tutti](ogni-tutti.md)
+- [verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
+- [vivere _vs._ abitare](#vivere-abitare.md)
 
 ## YouTube channels and individual videos 
 
