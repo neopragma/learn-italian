@@ -53,6 +53,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to be completely surprised</td>
 </tr>
 <tr>
+<td width="33%">cadere in una truffa</td>
+<td width="33%">to fall for a scam</td>
+<td width="34%"><em>La truffa immobiliare. Sono in molti a caderci.</em></td>
+</tr>
+<tr>
 <td width="33%">camera dell'eco</td>
 <td width="33%">echo chamber</td>
 <td width="34%">echo chamber</td>
@@ -128,6 +133,16 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">behind closed doors</td>
 </tr>
 <tr>
+<td width="33%">la solita storia</td>
+<td width="33%">the same story</td>
+<td width="34%">the same old story</td>
+</tr>
+<tr>
+<td width="33%">la solita storiella</td>
+<td width="33%">the same little story</td>
+<td width="34%">the same little story</td>
+</tr>
+<tr>
 <td width="33%">Meglio un uovo oggi che una gallina domani.</td>
 <td width="33%">Better an egg today than a hen tomorrow.</td>
 <td width="34%">A bird in the hand is worth two in the bush.</td>
@@ -146,6 +161,16 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">non c'e limite alla follia</td>
 <td width="33%">there is no limit to the folly</td>
 <td width="34%">there's no limit to madness</td>
+</tr>
+<tr>
+<td width="33%">non c'entra nulla con</td>
+<td width="33%">that has nothing to do with</td>
+<td width="34%">that has nothing to do with</td>
+</tr>
+<tr>
+<td width="33%">non c'entrano nulla con</td>
+<td width="33%">that have nothing to do with</td>
+<td width="34%">that have nothing to do with</td>
 </tr>
 <tr>
 <td width="33%">Non tutte le ciambelle escono col buco.</td>
@@ -193,6 +218,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">red light district</td>
 </tr>
 <tr>
+<td width="33%">rompere le scatole</td>
+<td width="33%">to break the boxes</td>
+<td width="34%">to be a pain in the ass</td>
+</tr>
+<tr>
 <td width="33%">sempre la solita storia</td>
 <td width="33%">always the usual story</td>
 <td width="34%">always the same old story</td>
@@ -201,6 +231,11 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">si annuncia con squilli di tromba</td>
 <td width="33%">it is announced by a trumpet blast</td>
 <td width="34%">it is announced by a trumpet blast</td>
+</tr>
+<tr>
+<td width="33%">si tratta solo di speculazioni</td>
+<td width="33%">this is only speculation</td>
+<td width="34%">this is only speculation</td>
 </tr>
 <tr>
 <td width="33%">stare con le mani in mano</td>
@@ -233,9 +268,12 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">quite a few</td>
 </tr>
 <tr>
-<td width="33%">un sacco di tempo</td>
-<td width="33%">a bag of time</td>
-<td width="34%">a long time, "forever"</td>
+<td width="33%">un sacco di...</td>
+<td width="33%">a bag of...</td>
+<td width="34%">a lot of...
+    <br/>un sacco di tempo - a long time, "forever"
+    <br/>un sacco di frasi italiane - a lot of Italian phrases
+</td>
 </tr>
 <tr>
 <td width="33%">un'altra volta [ancora]</td>

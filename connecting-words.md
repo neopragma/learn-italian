@@ -28,6 +28,10 @@ Parole che introducono o collegano idee
 <td>even if</td>
 </tr>
 <tr>
+<td width="50%">ancora</td>
+<td>still, yet</td>
+</tr>
+<tr>
 <td width="50%">anzi</td>
 <td>indeed (for emphasis)</td>
 </tr>
@@ -252,6 +256,10 @@ Non me ne vado finché non arriva.
 <td>for obvious reasons</td>
 </tr>
 <tr>
+<td width="50%">per quanto riguarda</td>
+<td>as for, as far as [x] is concerned, regarding</td>
+</tr>
+<tr>
 <td width="50%">perché</td>
 <td>as, because, since, whereas (also see <em>poiché, siccome</em>)</td>
 </tr>
@@ -266,6 +274,10 @@ Non me ne vado finché non arriva.
 <tr>
 <td width="50%">però</td>
 <td>however, on the other hand (see also <em>invece, tuttavia</em>)</td>
+</tr>
+<tr>
+<td width="50%">pertanto</td>
+<td>therefore, for that reason, because of that</td>
 </tr>
 <tr>
 <td width="50%">poco fa</td>
