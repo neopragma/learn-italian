@@ -100,6 +100,7 @@
 - [incontrare](incontrare.md)
 - [italiano _vs._ l'italiano](italiano-l-italiano.md)
 - [ogni _vs._ tutti](ogni-tutti.md)
+- [verbi](verbs.md)
 - [verbi sequiti da "a"](verbi-sequiti-da-a.md) - verbs followed by "a"
 - [vivere _vs._ abitare](#vivere-abitare.md)
 
