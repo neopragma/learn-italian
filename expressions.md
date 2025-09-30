@@ -93,6 +93,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">What came first, the chicken or the egg?</td>
 </tr>
 <tr>
+<td width="33%">dove mi pare</td>
+<td width="33%">wherever I want, where I please, where it suits me</td>
+<td width="34%">wherever I want, where I please, where it suits me</td>
+</tr>
+<tr>
 <td width="33%">È un problema dell'uovo e della gallina.</td>
 <td width="33%">It's a problem of the egg and the hen.</td>
 <td width="34%">It's a chicken-and-egg problem.</td>
@@ -193,14 +198,14 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">When in Rome, do as the Romans do.</td>
 </tr>
 <tr>
-<td width="33%">piantare il chiodo (also see <em>battere il chiodo</em></td>
-<td width="33%">to plant the nail</td>
-<td width="34%">to get to the point</td>
-</tr>
-<tr>
 <td width="33%">pazzia pura</td>
 <td width="33%">pure madness</td>
 <td width="34%">pure madness</td>
+</tr>
+<tr>
+<td width="33%">piantare il chiodo (also see <em>battere il chiodo</em></td>
+<td width="33%">to plant the nail</td>
+<td width="34%">to get to the point</td>
 </tr>
 <tr>
 <td width="33%">piove sul bagnato</td>
@@ -211,6 +216,11 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">prendere qualcuno in giro</td>
 <td width="33%">to take someone for a ride</td>
 <td width="34%">to make fun of someone</td>
+</tr>
+<tr>
+<td width="33%">prima o poi</td>
+<td width="33%">first or then</td>
+<td width="34%">sooner or later</td>
 </tr>
 <tr>
 <td width="33%">quartiere a luci rosse</td>
@@ -226,6 +236,11 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">sempre la solita storia</td>
 <td width="33%">always the usual story</td>
 <td width="34%">always the same old story</td>
+</tr>
+<tr>
+<td width="33%">sfogare le tue frustrazioni</td>
+<td width="33%">to vent your frustrations</td>
+<td width="34%">to vent your frustrations</td>
 </tr>
 <tr>
 <td width="33%">si annuncia con squilli di tromba</td>
