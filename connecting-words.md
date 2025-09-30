@@ -60,6 +60,10 @@ Parole che introducono o collegano idee
 <td>given that, provided that</td>
 </tr>
 <tr>
+<td width="50%">direi che</td>
+<td>I would say that</td>
+</tr>
+<tr>
 <td width="50%">dopo</td>
 <td>after, then (also see <em>poi</em>)</td>
 </tr>
@@ -128,6 +132,10 @@ Non me ne vado finché non arriva.
 <td>in brief, in short</td>
 </tr>
 <tr>
+<td width="50%">in ogni caso</td>
+<td>in any case</td>
+</tr>
+<tr>
 <td width="50%">in prima luego</td>
 <td>in the first place (also see <em>per cominciare, prima di tutt</em>)</td>
 </tr>
@@ -140,6 +148,10 @@ Non me ne vado finché non arriva.
 <td>in summary</td>
 </tr>
 <tr>
+<td width="50%">in tanti anni</td>
+<td>in many years</td>
+</tr>
+<tr>
 <td width="50%">inoltre</td>
 <td>besides, furthermore, moreover (also see <em>oltretutto, per di più</em>)</td>
 </tr>
@@ -150,6 +162,10 @@ Non me ne vado finché non arriva.
 <tr>
 <td width="50%">invece</td>
 <td>however, on the other hand (see also <em>però, tuttavia</em>)</td>
+</tr>
+<tr>
+<td width="50%">la vera domanda da possi è</td>
+<td>the real question to ask is</td>
 </tr>
 <tr>
 <td width="50%">me ne rendo conto</td>
@@ -192,6 +208,10 @@ Non me ne vado finché non arriva.
 <td>although, despite, even though (also see <em>malgrado, sebbene</em>)</td>
 </tr>
 <tr>
+<td width="50%">occorre prendere atto che</td>
+<td>it is necessary to take note that</td>
+</tr>
+<tr>
 <td width="50%">ogni qualvolta</td>
 <td>whenever</td>
 </tr>
@@ -220,8 +240,16 @@ Non me ne vado finché non arriva.
 <td>in conclusion</td>
 </tr>
 <tr>
+<td width="50%">per decenni</td>
+<td>for decades</td>
+</tr>
+<tr>
 <td width="50%">per di più</td>
 <td>besides, furthermore, moreover (also see <em>inoltre</em>)</td>
+</tr>
+<tr>
+<td width="50%">per ovvie ragioni</td>
+<td>for obvious reasons</td>
 </tr>
 <tr>
 <td width="50%">perché</td>
@@ -275,6 +303,10 @@ qualche volta nel futuro - sometime in the future</td>
 <tr>
 <td width="50%">qualche tempo fa</td>
 <td>some time ago</td>
+</tr>
+<tr>
+<td width="50%">quello che spaventa è</td>
+<td>what's scary is</td>
 </tr>
 <tr>
 <td width="50%">quindi</td>
