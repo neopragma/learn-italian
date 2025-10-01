@@ -62,7 +62,7 @@
 </tr>
 <tr>
 <td width="25%">trattare</td>
-<td width="25%">deal with</td>
+<td width="25%">deal with, treat</td>
 <td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
 </tr>
 <tr>

@@ -93,6 +93,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">What came first, the chicken or the egg?</td>
 </tr>
 <tr>
+<td width="33%">dai</td>
+<td width="33%">give</td>
+<td width="34%">come on!</td>
+</tr>
+<tr>
 <td width="33%">dove mi pare</td>
 <td width="33%">wherever I want, where I please, where it suits me</td>
 <td width="34%">wherever I want, where I please, where it suits me</td>
