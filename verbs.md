@@ -14,6 +14,17 @@
 </td>
 </tr>
 <tr>
+<td width="25%">condannare</td>
+<td width="25%">condemn, sentence, doom</td>
+<td width="50%">
+    <br/>Il giudice ha condannato l’imputato a cinque anni di carcere.
+    <br/>L’opinione pubblica ha condannato duramente il suo comportamento.
+    <br/>La sua scelta sbagliata lo ha condannato al fallimento.
+    <br/>Condannare a morte
+    <br/>Condannare senza appello
+</td>
+</tr>
+<tr>
 <td width="25%">condividere</td>
 <td width="25%">share</td>
 <td width="50%">Il rapper Clementino ha condiviso sui social un video inedito...</td>
@@ -46,17 +57,13 @@
     <br/>Gli hanno tolto la patente per guida pericolosa.
     <br/>Finalmente mi sono tolto un peso.
     <br/>Dobbiamo togliere di mezzo queste vecchie scatole.
+    <br/>irregolare: io tolgo, loro tolgono
 </td>
 </tr>
 <tr>
 <td width="25%">trattare</td>
 <td width="25%">deal with</td>
 <td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
-</tr>
-<tr>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="50%"></td>
 </tr>
 <tr>
 <td width="25%"></td>
