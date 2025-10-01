@@ -268,6 +268,16 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">you have earned</td>
 </tr>
 <tr>
+<td width="33%">togliersi di mezzo</td>
+<td width="33%">remove of half</td>
+<td width="34%">get rid of</td>
+</tr>
+<tr>
+<td width="33%">togliersi un peso</td>
+<td width="33%">remove a weight from self</td>
+<td width="34%">get something of one's chest</td>
+</tr>
+<tr>
 <td width="33%">Tra il dire e il fare c'è di mezzo il mare.</td>
 <td width="33%">Between saying and doing there's the sea.</td>
 <td width="34%">Easier said than done.</td>

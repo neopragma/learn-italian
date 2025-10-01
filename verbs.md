@@ -6,9 +6,12 @@
 <th>Italiano</th><th>English<br/><th>Notes</th>
 </tr>
 <tr>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="50%"></td>
+<td width="25%">bollare</td>
+<td width="25%">brand, stamp, label</td>
+<td width="50%">
+    <br/>Hanno bollato la sua idea come inutile.
+    <br/>...bollandolo come "complice di un genocidio”.
+</td>
 </tr>
 <tr>
 <td width="25%">condividere</td>
@@ -51,24 +54,24 @@
 <td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
 </tr>
 <tr>
-<td width="25%">trattare</td>
-<td width="25%">deal with</td>
-<td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="50%"></td>
 </tr>
 <tr>
-<td width="25%">trattare</td>
-<td width="25%">deal with</td>
-<td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="50%"></td>
 </tr>
 <tr>
-<td width="25%">trattare</td>
-<td width="25%">deal with</td>
-<td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="50%"></td>
 </tr>
 <tr>
-<td width="25%">trattare</td>
-<td width="25%">deal with</td>
-<td width="50%">Dobbiamo trattare questo argomento con molta attenzione.</td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="50%"></td>
 </tr>
 </table>
 </p>
