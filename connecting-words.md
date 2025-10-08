@@ -12,6 +12,15 @@ Parole che introducono o collegano idee
 <td>on condition that</td>
 </tr>
 <tr>
+<tr>
+<td width="50%">a malincuore</td>
+<td>with a heavy heart</td>
+</tr>
+<tr>
+<td width="50%">accanto a</td>
+<td>next to, beside, alongside</td>
+</tr>
+<tr>
 <td width="50%">adesso</td>
 <td>now</td>
 </tr>
@@ -48,12 +57,17 @@ Parole che introducono o collegano idee
 <td>who knows?</td>
 </tr>
 <tr>
-<td width="50%">d'altra parte</td>
-<td>on the other hand</td>
+<td width="50%">da ragazza</td>
+<td>as a girl, as a youth</td>
 </tr>
 <tr>
-<td width="50%">di conseguenza</td>
-<td>consequently, therefore (also see <em>dunque, perciò, quindi</em>)</td>
+<tr>
+<td width="50%">da ragazzo</td>
+<td>as a boy, as a youth</td>
+</tr>
+<tr>
+<td width="50%">d'altra parte</td>
+<td>on the other hand</td>
 </tr>
 <tr>
 <td width="50%">dato</td>
@@ -62,6 +76,18 @@ Parole che introducono o collegano idee
 <tr>
 <td width="50%">dato che</td>
 <td>given that, provided that</td>
+</tr>
+<tr>
+<td width="50%">del resto</td>
+<td>after all</td>
+</tr>
+<tr>
+<td width="50%">di conseguenza</td>
+<td>consequently, therefore (also see <em>dunque, perciò, quindi</em>)</td>
+</tr>
+<tr>
+<td width="50%">di nuovo</td>
+<td>again, once again</td>
 </tr>
 <tr>
 <td width="50%">direi che</td>
@@ -73,7 +99,7 @@ Parole che introducono o collegano idee
 </tr>
 <tr>
 <td width="50%">dunque</td>
-<td>consequently, therefore (also see <em>di conseguenza, perciò, quindi</em>)</td>
+<td>consequently, thus (also see <em>di conseguenza, perciò, quindi</em>)</td>
 </tr>
 <tr>
 <td width="50%">durante</td>
@@ -128,8 +154,16 @@ Non me ne vado finché non arriva.
 <td>maybe, perhaps (also see <em>magari</em>)</td>
 </tr>
 <tr>
+<td width="50%">già</td>
+<td>it's true that; yes (lit.: already)</td>
+</tr>
+<tr>
 <td width="50%">grazie a</td>
 <td>thanks to</td>
+</tr>
+<tr>
+<td width="50%">honostante</td>
+<td>despite</td>
 </tr>
 <tr>
 <td width="50%">in breve</td>
@@ -184,6 +218,10 @@ Non me ne vado finché non arriva.
 <td>although, despite, even though (also see <em>nonostante, sebbene</em>)</td>
 </tr>
 <tr>
+<td width="50%">malvolentieri</td>
+<td>unwillingly</td>
+</tr>
+<tr>
 <td width="50%">mentre</td>
 <td>while</td>
 </tr>
@@ -226,6 +264,10 @@ Non me ne vado finché non arriva.
 <tr>
 <td width="50%">oltretutto</td>
 <td>furthermore (also see <em>inoltre, per di più</em>)</td>
+</tr>
+<tr>
+<td width="50%">ormai</td>
+<td>by now</td>
 </tr>
 <tr>
 <td width="50%">ovunque</td>
@@ -282,6 +324,10 @@ Non me ne vado finché non arriva.
 <tr>
 <td width="50%">poco fa</td>
 <td>a little while ago, a short time ago</td>
+</tr>
+<tr>
+<td width="50%">poco importa che</td>
+<td>it matters little that</td>
 </tr>
 <tr>
 <td width="50%">poi</td>
@@ -355,6 +401,10 @@ secondo me - in my opinion</td>
 <td>subsequently</td>
 </tr>
 <tr>
+<td width="50%">sullo sfondo</td>
+<td>in the background</td>
+</tr>
+<tr>
 <td width="50%">tuttavia</td>
 <td>however, on the other hand (see also <em>invece, però</em>)</td>
 </tr>
@@ -362,6 +412,10 @@ secondo me - in my opinion</td>
 <td width="50%">una volta</td>
 <td>once (in the sense of "once this happens")<br/>
 una volta fuori - once outside</td>
+</tr>
+<tr>
+<td width="50%">vi è</td>
+<td>on the subject of</td>
 </tr>
 <tr>
 <td width="50%">visto</td>
