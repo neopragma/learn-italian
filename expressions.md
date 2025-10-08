@@ -18,6 +18,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">once again, yet again</td>
 </tr>
 <tr>
+<td width="33%">andare d'accordo</td>
+<td width="33%">walk in agreement</td>
+<td width="34%">get along (e.g., Io e il lunedi non andiamo d'accordo)</td>
+</tr>
+<tr>
 <td width="33%">andare su tutte le furie</td>
 <td width="33%">to go into all the furies</td>
 <td width="34%">to fly into a rage</td>
@@ -48,6 +53,11 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to travel a road frequently</td>
 </tr>
 <tr>
+<td width="33%">beni congelati</td>
+<td width="33%">frozen valuables</td>
+<td width="34%">frozen assets</td>
+</tr>
+<tr>
 <td width="33%">cadere dalle nuvole</td>
 <td width="33%">to fall from the clouds</td>
 <td width="34%">to be completely surprised</td>
@@ -68,9 +78,24 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">don't hold your breath; it'll take forever</td>
 </tr>
 <tr>
+<td width="33%">ce l'aveva</td>
+<td width="33%">he had it</td>
+<td width="34%">he had it in for someone</td>
+</tr>
+<tr>
 <td width="33%">cerchiamo di [inf.]</td>
 <td width="33%">let's look for of [action]</td>
 <td width="34%">let's try to [action]</td>
+</tr>
+<tr>
+<td width="33%">che palle!</td>
+<td width="33%">what balls!</td>
+<td width="34%">what balls!</td>
+</tr>
+<tr>
+<td width="33%">che peccato</td>
+<td width="33%">what a pity</td>
+<td width="34%">what a pity</td>
 </tr>
 <tr>
 <td width="33%">che resta ai margini</td>
@@ -83,6 +108,21 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">You snooze, you lose.</td>
 </tr>
 <tr>
+<td width="33%">ci deve essere una morale in tutto questo</td>
+<td width="33%">there must be a moral in all this</td>
+<td width="34%">there must be a moral in all this</td>
+</tr>
+<tr>
+<td width="33%">ci mancava sola questa</td>
+<td width="33%">the only thing missing was this</td>
+<td width="34%">this was the last thing we needed</td>
+</tr>
+<tr>
+<td width="33%">ci vuole coraggio</td>
+<td width="33%">it takes courage</td>
+<td width="34%">it takes courage</td>
+</tr>
+<tr>
 <td width="33%">contare su di [something, someone]</td>
 <td width="33%">to count on of [something, someone]</td>
 <td width="34%">to count on [something, someone]</td>
@@ -91,6 +131,11 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">Cosa è nato prima, l'uova o la gallina?</td>
 <td width="33%">What was born first, the egg or the hen?</td>
 <td width="34%">What came first, the chicken or the egg?</td>
+</tr>
+<tr>
+<td width="33%">così sono i lunedì</td>
+<td width="33%">Mondays are like that</td>
+<td width="34%">Mondays are like that</td>
 </tr>
 <tr>
 <td width="33%">dai</td>
@@ -103,12 +148,22 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">wherever I want, where I please, where it suits me</td>
 </tr>
 <tr>
+<td width="33%">è stato sorpresa a [inf.]</td>
+<td width="33%">he/she was surprised at [inf.]</td>
+<td width="34%">he/she was caught [in the act of inf.]</td>
+</tr>
+<tr>
 <td width="33%">È un problema dell'uovo e della gallina.</td>
 <td width="33%">It's a problem of the egg and the hen.</td>
 <td width="34%">It's a chicken-and-egg problem.</td>
 </tr>
 <tr>
-<td width="33%">Essere al verde</td>
+<td width="33%">escogitare un complotto</td>
+<td width="33%">to devise a plot/conspiracy</td>
+<td width="34%">to hatch a plot</td>
+</tr>
+<tr>
+<td width="33%">essere al verde</td>
 <td width="33%">to be at the green</td>
 <td width="34%">to be broke</td>
 </tr>
@@ -118,9 +173,19 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to be at the end of the road; to be done for</td>
 </tr>
 <tr>
+<td width="33%">essere alle risate</td>
+<td width="33%">to be in the laughs</td>
+<td width="34%">to be laughing, joking</td>
+</tr>
+<tr>
 <td width="33%">essere come il prezzemolo</td>
 <td width="33%">to be like parsley</td>
 <td width="34%">to be everywhere (like someone who always shows up)</td>
+</tr>
+<tr>
+<td width="33%">evviva [x]</td>
+<td width="33%">long live [x]!</td>
+<td width="34%">long live [x]!</td>
 </tr>
 <tr>
 <td width="33%">fa' come dico, non come faccio</td>
@@ -133,9 +198,39 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to pretend not to hear; to ignore</td>
 </tr>
 <tr>
+<td width="33%">fare un sospiro di sollievo</td>
+<td width="33%">to let out a sigh of relief</td>
+<td width="34%">to let out a sigh of relief</td>
+</tr>
+<tr>
 <td width="33%">fatto/a di</td>
 <td width="33%">made of, made up of</td>
 <td width="34%">made of, made up of</td>
+</tr>
+<tr>
+<td width="33%">fino a un certo punto</td>
+<td width="33%">up to a certain point</td>
+<td width="34%">up to a certain point</td>
+</tr>
+<tr>
+<td width="33%">giorni di pioggia</td>
+<td width="33%">rainy days</td>
+<td width="34%">rainy days</td>
+</tr>
+<tr>
+<td width="33%">gira la frittata</td>
+<td width="33%">flip the omelet</td>
+<td width="34%">turn a situation around, usually in a tricky way</td>
+</tr>
+<tr>
+<td width="33%">girarci intorno</td>
+<td width="33%">to go around it</td>
+<td width="34%">to avoid the point by making light of it</td>
+</tr>
+<tr>
+<td width="33%">il nemico interno</td>
+<td width="33%">the internal enemy</td>
+<td width="34%">the enemy within</td>
 </tr>
 <tr>
 <td width="33%">in stanza riservata</td>
@@ -153,6 +248,16 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">the same little story</td>
 </tr>
 <tr>
+<td width="33%">lograno chi [x]</td>
+<td width="33%">they wear down whoever [does x]</td>
+<td width="34%">they wear down whoever [does x]</td>
+</tr>
+<tr>
+<td width="33%">me ne rendo conto</td>
+<td width="33%">I realize</td>
+<td width="34%">I realize</td>
+</tr>
+<tr>
 <td width="33%">Meglio un uovo oggi che una gallina domani.</td>
 <td width="33%">Better an egg today than a hen tomorrow.</td>
 <td width="34%">A bird in the hand is worth two in the bush.</td>
@@ -168,12 +273,22 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">this makes me laugh</td>
 </tr>
 <tr>
+<td width="33%">mi also contravoglia</td>
+<td width="33%">I get up reluctantly</td>
+<td width="34%">I get up reluctantly</td>
+</tr>
+<tr>
+<td width="33%">mi fermo a pensare</td>
+<td width="33%">I stop to think</td>
+<td width="34%">I stop to think</td>
+</tr>
+<tr>
 <td width="33%">non c'e limite alla follia</td>
 <td width="33%">there is no limit to the folly</td>
 <td width="34%">there's no limit to madness</td>
 </tr>
 <tr>
-<td width="33%">non c'entra nulla con</td>
+<td width="33%">non c'entra [nulla] con (pl.: non c'entrano con)</td>
 <td width="33%">that has nothing to do with</td>
 <td width="34%">that has nothing to do with</td>
 </tr>
@@ -203,9 +318,19 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">When in Rome, do as the Romans do.</td>
 </tr>
 <tr>
+<td width="33%">parlo da solo</td>
+<td width="33%">I talk to myself</td>
+<td width="34%">I talk to myself</td>
+</tr>
+<tr>
 <td width="33%">pazzia pura</td>
 <td width="33%">pure madness</td>
 <td width="34%">pure madness</td>
+</tr>
+<tr>
+<td width="33%">peracottaro</td>
+<td width="33%">pear-cooker</td>
+<td width="34%">bungler, loser</td>
 </tr>
 <tr>
 <td width="33%">piantare il chiodo (also see <em>battere il chiodo</em></td>
@@ -218,6 +343,21 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">the rich get richer; misfortunes add up</td>
 </tr>
 <tr>
+<td width="33%">più velocemente di quanto lo sia ora</td>
+<td width="33%">faster than it is now</td>
+<td width="34%">faster than it is now/td>
+</tr>
+<tr>
+<td width="33%">potremmo fare così</td>
+<td width="33%">we could do it this way</td>
+<td width="34%">we could do it this way</td>
+</tr>
+<tr>
+<td width="33%">premere il tasto di rimandare</td>
+<td width="33%">to press the snooze button</td>
+<td width="34%">to press the snooze button</td>
+</tr>
+<tr>
 <td width="33%">prendere qualcuno in giro</td>
 <td width="33%">to take someone for a ride</td>
 <td width="34%">to make fun of someone</td>
@@ -228,9 +368,34 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">sooner or later</td>
 </tr>
 <tr>
+<td width="33%">proprio</td>
+<td width="33%">really, (lit.: proper, properly, own)</td>
+<td width="34%">(for emphasis)</td>
+</tr>
+<tr>
+<td width="33%">qualche volta</td>
+<td width="33%">at some time</td>
+<td width="34%">at some time</td>
+</tr>
+<tr>
 <td width="33%">quartiere a luci rosse</td>
 <td width="33%">neighborhood of red lights</td>
 <td width="34%">red light district</td>
+</tr>
+<tr>
+<td width="33%">qui da qualche parte</td>
+<td width="33%">here in some place</td>
+<td width="34%">somewhere around here</td>
+</tr>
+<tr>
+<td width="33%">roba da matti</td>
+<td width="33%">crazy stuff (lit.: stuff from crazy)</td>
+<td width="34%">that's crazy! unbelievable!</td>
+</tr>
+<tr>
+<td width="33%">rompere le coglioni</td>
+<td width="33%">to break the testicles</td>
+<td width="34%">to be a pain in the ass</td>
 </tr>
 <tr>
 <td width="33%">rompere le scatole</td>
@@ -238,9 +403,29 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to be a pain in the ass</td>
 </tr>
 <tr>
+<td width="33%">scherzare con il fuoco</td>
+<td width="33%">to joke with the fire</td>
+<td width="34%">playing with fire</td>
+</tr>
+<tr>
+<td width="33%">se mi avessero chiesto</td>
+<td width="33%">if I had been asked</td>
+<td width="34%">if I had been asked</td>
+</tr>
+<tr>
 <td width="33%">sempre la solita storia</td>
 <td width="33%">always the usual story</td>
 <td width="34%">always the same old story</td>
+</tr>
+<tr>
+<td width="33%">senza battere ciglio</td>
+<td width="33%">without batting an eyelash</td>
+<td width="34%">without batting an eye</td>
+</tr>
+<tr>
+<td width="33%">senza se e senza ma</td>
+<td width="33%">without if and without but</td>
+<td width="34%">no ifs, ands, or buts</td>
 </tr>
 <tr>
 <td width="33%">sfogare le tue frustrazioni</td>
@@ -253,9 +438,19 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">it is announced by a trumpet blast</td>
 </tr>
 <tr>
+<td width="33%">si sta solo guadagnando il pane</td>
+<td width="33%">he is only earning his bread</td>
+<td width="34%">he is just doing his job</td>
+</tr>
+<tr>
 <td width="33%">si tratta solo di speculazioni</td>
 <td width="33%">this is only speculation</td>
 <td width="34%">this is only speculation</td>
+</tr>
+<tr>
+<td width="33%">siamo cresciuti con</td>
+<td width="33%">we grew up with</td>
+<td width="34%">we grew up with</td>
 </tr>
 <tr>
 <td width="33%">stare con le mani in mano</td>
@@ -273,7 +468,7 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">you have earned</td>
 </tr>
 <tr>
-<td width="33%">togliersi di mezzo</td>
+<td width="33%">toglieri di mezzo</td>
 <td width="33%">remove of half</td>
 <td width="34%">get rid of</td>
 </tr>
@@ -293,6 +488,16 @@ Folksy sayings and idiomatic expressions.
 <td width="34%">to meet your match</td>
 </tr>
 <tr>
+<td width="33%">tutto cambia, niente cambia</td>
+<td width="33%">everything changes, nothing changes</td>
+<td width="34%">the more things change, the more they stay the same</td>
+</tr>
+<tr>
+<td width="33%">tutti hanno fretta</td>
+<td width="33%">everyone is in a hurry</td>
+<td width="34%">everyone is in a hurry</td>
+</tr>
+<tr>
 <td width="33%">un bel po' di</td>
 <td width="33%">a nice little bit of</td>
 <td width="34%">quite a few</td>
@@ -309,6 +514,16 @@ Folksy sayings and idiomatic expressions.
 <td width="33%">un'altra volta [ancora]</td>
 <td width="33%">[yet] another time</td>
 <td width="34%">one more time; e.g. <em>Se lo fai un'altra volta, parleremo seriamente.</em></td>
+</tr>
+<tr>
+<td width="33%">una calata di bragha</td>
+<td width="33%">a pulling down of the trousers</td>
+<td width="34%">a humiliating surrender</em></td>
+</tr>
+<tr>
+<td width="33%">una vergogna</td>
+<td width="33%">a shame</td>
+<td width="34%">a shame</em></td>
 </tr>
 </table>
 </p>
